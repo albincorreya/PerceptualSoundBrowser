@@ -7,7 +7,7 @@ This project was developed as a part of my thesis for Masters' in Sound and Musi
 This project uses the timbral sound models in the following repo https://github.com/AudioCommons/timbral_models which was developed as a part of AudioCommons initiative.
 
 
-#Setup
+# Setup
 
 1. You need to have a installed version of Cycling74 Max 7 (7.3.1 atleast) in order to use the system.
    You can download the latest version from here https://cycling74.com/downloads
@@ -24,6 +24,6 @@ This project uses the timbral sound models in the following repo https://github.
 
 
 
-#Acknowledgements
+# Acknowledgements
 
 Thanks to Frederic Font and Xavier Favory for their valuable suggestions.
