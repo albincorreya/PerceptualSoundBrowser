@@ -18,7 +18,7 @@
       "depth": 35.70720416525682,
       "sound_name": "Pt. Lonsdale Wind #3.wav",
       "roughness": 0.12769196396184299,
-      "hardness": NaN,
+      "hardness": 0.1,
       "brightness": 13.692365866783675
     },
     "118131": {
@@ -53,7 +53,7 @@
       "depth": 40.76285462760722,
       "sound_name": "Wind in Pine Trees.wav",
       "roughness": 0.021828829343792995,
-      "hardness": NaN,
+      "hardness": 0.1,
       "brightness": 15.701609984131657
     },
     "147637": {
@@ -137,7 +137,7 @@
       "depth": 61.10159543047447,
       "sound_name": "Spooky Wind #2.wav",
       "roughness": 0.18528247064189776,
-      "hardness": NaN,
+      "hardness": 0.1,
       "brightness": -6.279365867495073
     },
     "346248": {
@@ -249,7 +249,7 @@
       "depth": 29.24059384200745,
       "sound_name": "Wind Through Trees 3b.wav",
       "roughness": 5.057566685346339,
-      "hardness": NaN,
+      "hardness": 0.1,
       "brightness": 57.10257620333415
     },
     "215992": {
@@ -361,7 +361,7 @@
       "depth": 8.83020213633118,
       "sound_name": "wind sound.wav.wav",
       "roughness": 0.25661082048763445,
-      "hardness": NaN,
+      "hardness": 0.1,
       "brightness": 11.86596073050817
     },
     "378725": {
@@ -382,7 +382,7 @@
       "depth": 54.39904720450668,
       "sound_name": "Spooky Wind #1.wav",
       "roughness": 0.27062057987486937,
-      "hardness": NaN,
+      "hardness": 0.1,
       "brightness": 0.20457572684507497
     },
     "319207": {
@@ -669,7 +669,7 @@
       "depth": 60.28977883098817,
       "sound_name": "Ambience_waterwind.aiff",
       "roughness": 0.27845345026827456,
-      "hardness": NaN,
+      "hardness": 0.1,
       "brightness": 15.602499223839722
     },
     "243463": {

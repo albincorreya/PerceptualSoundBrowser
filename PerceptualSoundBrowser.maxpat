@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 131.0, 130.0, 1066.0, 455.0 ],
+		"rect" : [ 111.0, 201.0, 1066.0, 455.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -1731,7 +1731,7 @@
 					"floatoutput" : 1,
 					"id" : "obj-36",
 					"maxclass" : "slider",
-					"min" : -21.0,
+					"min" : -47.0,
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
@@ -1739,7 +1739,7 @@
 					"patching_rect" : [ 968.0, 196.0, 20.0, 140.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 969.5, 104.5, 20.0, 140.0 ],
-					"size" : 124.0,
+					"size" : 149.0,
 					"style" : ""
 				}
 
@@ -1749,7 +1749,7 @@
 					"floatoutput" : 1,
 					"id" : "obj-33",
 					"maxclass" : "slider",
-					"min" : -145.0,
+					"min" : -651.0,
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
@@ -1757,7 +1757,7 @@
 					"patching_rect" : [ 848.0, 196.0, 20.0, 140.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 890.5, 104.5, 20.0, 140.0 ],
-					"size" : 322.0,
+					"size" : 6219.0,
 					"style" : ""
 				}
 
@@ -1775,7 +1775,7 @@
 					"patching_rect" : [ 731.0, 189.0, 20.0, 140.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 811.5, 105.5, 20.0, 140.0 ],
-					"size" : 260.0,
+					"size" : 253.0,
 					"style" : ""
 				}
 
@@ -1785,7 +1785,7 @@
 					"floatoutput" : 1,
 					"id" : "obj-26",
 					"maxclass" : "slider",
-					"min" : -4.0,
+					"min" : -15.0,
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
@@ -1793,7 +1793,7 @@
 					"patching_rect" : [ 614.0, 185.0, 20.0, 140.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 734.5, 105.5, 20.0, 140.0 ],
-					"size" : 111.0,
+					"size" : 265.0,
 					"style" : ""
 				}
 
@@ -2647,7 +2647,7 @@
 					"patching_rect" : [ 291.0, 629.0, 560.0, 272.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 216.0, 75.0, 485.0, 267.0 ],
-					"rows" : 95,
+					"rows" : 103,
 					"stcolor" : [ 0.385026, 0.390089, 0.412287, 1.0 ]
 				}
 
@@ -2953,7 +2953,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 415.0, 330.0, 50.0, 22.0 ],
 													"style" : "",
-													"text" : "1"
+													"text" : "0"
 												}
 
 											}
@@ -3107,7 +3107,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 659.0, 285.0, 218.0, 22.0 ],
 													"style" : "",
-													"text" : "showFilterMulti 260 0 0 0 0 0"
+													"text" : "showFilterMulti 0 0 0 0 0 25"
 												}
 
 											}
@@ -3120,7 +3120,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 930.0, 280.5, 218.0, 22.0 ],
 													"style" : "",
-													"text" : "showRankMulti 260 0 0 0 0 0 0"
+													"text" : "showRankMulti 0 0 0 0 0 25 25"
 												}
 
 											}
@@ -5775,6 +5775,12 @@
 		}
 ,
 		"dependency_cache" : [ 			{
+				"name" : "PerceptualSoundBrowser.maxsnap",
+				"bootpath" : "~/Documents/Max 7/Snapshots",
+				"type" : "mx@s",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "jsonParser.js",
 				"bootpath" : "~/Documents/Github/master_thesis/Perceptual_Sound_Browser",
 				"type" : "TEXT",
@@ -5800,6 +5806,64 @@
 			}
  ],
 		"autosave" : 0,
+		"snapshot" : 		{
+			"filetype" : "C74Snapshot",
+			"version" : 2,
+			"minorversion" : 0,
+			"name" : "snapshotlist",
+			"origin" : "jpatcher",
+			"type" : "list",
+			"subtype" : "Undefined",
+			"embed" : 1,
+			"snapshot" : 			{
+				"valuedictionary" : 				{
+					"parameter_values" : 					{
+						"Rank_threshold" : 25.0,
+						"Rank_threshold[1]" : 25.0,
+						"live.button" : 0.0
+					}
+
+				}
+
+			}
+,
+			"snapshotlist" : 			{
+				"current_snapshot" : 0,
+				"entries" : [ 					{
+						"filetype" : "C74Snapshot",
+						"version" : 2,
+						"minorversion" : 0,
+						"name" : "PerceptualSoundBrowser",
+						"origin" : "PerceptualSoundBrowser",
+						"type" : "patcher",
+						"subtype" : "Undefined",
+						"embed" : 0,
+						"snapshot" : 						{
+							"valuedictionary" : 							{
+								"parameter_values" : 								{
+									"Rank_threshold" : 25.0,
+									"Rank_threshold[1]" : 25.0,
+									"live.button" : 0.0
+								}
+
+							}
+
+						}
+,
+						"fileref" : 						{
+							"name" : "PerceptualSoundBrowser",
+							"filename" : "PerceptualSoundBrowser.maxsnap",
+							"filepath" : "~/Documents/Max 7/Snapshots",
+							"filepos" : -1,
+							"snapshotfileid" : "f8c0a06aa724edd969bddffc822e09b1"
+						}
+
+					}
+ ]
+			}
+
+		}
+,
 		"styles" : [ 			{
 				"name" : "Audiomix",
 				"default" : 				{
