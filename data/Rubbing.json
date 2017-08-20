@@ -1,1 +1,690 @@
-{"Rubbing":{"110004": {"depth": 35.403062456211075, "sound_name": "109861", "roughness": 4.5557276076901285, "hardness": 43.824785590923966, "brightness": 52.510870886684486}, "110005": {"depth": 35.04577055173223, "sound_name": "109861", "roughness": 4.2798766620229785, "hardness": 63.21006518999184, "brightness": 46.55117801327657}, "29862": {"depth": 14.912104726630801, "sound_name": "Unionskin.wav.wav", "roughness": 87.98667992104474, "hardness": 100.12502087727898, "brightness": 79.84598723983851}, "140463": {"depth": 28.313359405388752, "sound_name": "Packaging Paper Rub Sliding Between Hands.wav.wav", "roughness": 75.17989204055635, "hardness": 83.71263026016186, "brightness": 85.46070231663903}, "196985": {"depth": 11.4214732088871, "sound_name": "Impact and friction on a soft sheet.wav", "roughness": 0.3310610708474742, "hardness": 60.76973346225577, "brightness": 79.85245470692819}, "197854": {"depth": 12.744624653397942, "sound_name": "CPU heatsink and a coin.wav", "roughness": 7.076457097090668, "hardness": 93.48355421666383, "brightness": 74.73232291102185}, "329927": {"depth": 14.359907728264268, "sound_name": "michael-kur95", "roughness": 20.61325877702088, "hardness": 85.57740426699911, "brightness": 73.35965821585678}, "275527": {"depth": 70.5562534881204, "sound_name": "contact_mic_on_plate04.wav.wav", "roughness": 0.24531957393234502, "hardness": 47.938354495084695, "brightness": 25.168334264658448}, "148081": {"depth": 47.60539257838682, "sound_name": "styrofoam 02.wav.wav", "roughness": 4.890312243194342, "hardness": 46.244011419855724, "brightness": 59.274254149532524}, "148080": {"depth": 85.44165094064127, "sound_name": "styrofoam 03.wav.wav", "roughness": 13.08686167928202, "hardness": 40.05732731479111, "brightness": 70.28287956117842}, "29859": {"depth": 82.56776247226617, "sound_name": "Appleskin.wav.wav", "roughness": 0.06332106750709349, "hardness": 72.20012615994165, "brightness": 50.34772564859651}, "148085": {"depth": 31.63347743211365, "sound_name": "styrofoam 05.wav.wav", "roughness": 67.18388957803494, "hardness": 99.97716546350648, "brightness": 80.53594483742458}, "148084": {"depth": 12.701192655592376, "sound_name": "styrofoam 06.wav.wav", "roughness": 2.7850395686030396, "hardness": 86.74375578223226, "brightness": 70.86442527503586}, "101882": {"depth": 58.08452635790513, "sound_name": "Remix of 43156", "roughness": 10.203279447690509, "hardness": 58.654225450492504, "brightness": 63.24201503040493}, "344705": {"depth": 19.090604592442194, "sound_name": "Burlap_cloth_rub_scratch.wav.wav", "roughness": 3.179233618568045, "hardness": 3.468310021360139, "brightness": 66.52757365577922}, "178081": {"depth": 26.19501914092475, "sound_name": "guitar string rubbed with coin.wav", "roughness": 0.69016979843739, "hardness": 62.9448167434889, "brightness": 50.032413308084884}, "274813": {"depth": 10.84054768675767, "sound_name": "metallic scratches an rubs.wav.wav", "roughness": 0.26500543474430144, "hardness": 81.80284491078419, "brightness": 61.80139871688894}, "234177": {"depth": 65.76852917640949, "sound_name": "terhen", "roughness": 35.65690498725772, "hardness": 67.76349312888169, "brightness": 66.04743667862124}, "234180": {"depth": 37.500967563182954, "sound_name": "Balloon_Creak_Long_Rub_6.wav.wav", "roughness": 131.02314608972594, "hardness": 67.45342302792687, "brightness": 74.61585134772062}, "234175": {"depth": 37.026933733268095, "sound_name": "Balloon_Creak_Long_Rub_3.wav.wav", "roughness": 99.18614661637962, "hardness": 84.60084741926221, "brightness": 72.0934965505241}, "234174": {"depth": 63.31978261147789, "sound_name": "Balloon_Creak_Long_Rub_4.wav.wav", "roughness": 93.3996641011198, "hardness": 98.84624685874314, "brightness": 71.50855291082718}, "211173": {"depth": 25.332007310841814, "sound_name": "Finger slipping over plastic lid.wav.wav", "roughness": 0.9959827266786491, "hardness": 81.58973416007802, "brightness": 27.152033903300882}, "344717": {"depth": 27.78790736864198, "sound_name": "Plastic_crumple_.wav.wav", "roughness": 114.93642342986234, "hardness": 108.33240400968953, "brightness": 79.2595407149427}, "115349": {"depth": 46.22327481829359, "sound_name": "remix #1b of 115344", "roughness": 136.9216020671913, "hardness": 22.82504651281306, "brightness": 74.59512722238404}, "245391": {"depth": 59.03615072960269, "sound_name": "wobbly landing-stage contactmic 140729_0312.wav.wav", "roughness": 0.027519760211392612, "hardness": 37.73571819798508, "brightness": 0.9575919802496564}, "115346": {"depth": 47.95181479665061, "sound_name": "remix #1 of 115344", "roughness": 122.50673992320797, "hardness": -5.835376198646372, "brightness": 74.60170259514095}, "115347": {"depth": 74.27112000600621, "sound_name": "remix #3 of 115344", "roughness": 383.37331653237055, "hardness": NaN, "brightness": 84.95598676731167}, "20298": {"depth": 36.48975163299403, "sound_name": "brush_rubbing2.aif.aif", "roughness": 7.554475436627135, "hardness": 95.12799151698027, "brightness": 75.91907842206325}, "20297": {"depth": 48.70285486901914, "sound_name": "brush_rubbing1.aif.aif", "roughness": 37.25121664588117, "hardness": 97.97209469007794, "brightness": 77.6737744040982}, "209657": {"depth": 82.2915324967008, "sound_name": "20131203_Rubbing Toothbrush Wall _ZoomH2nXY.wav.wav", "roughness": 0.6948963471644165, "hardness": 117.87009881755057, "brightness": 82.40382558991493}, "154872": {"depth": 49.80331059597866, "sound_name": "work gloves cloth.wav.wav", "roughness": 3.3940749139275668, "hardness": 69.17791222314781, "brightness": 68.1006211189116}, "189675": {"depth": 81.88454133544604, "sound_name": "washing body.wav", "roughness": 152.53551544281578, "hardness": 119.56812645848959, "brightness": 81.42170027784584}, "250199": {"depth": 27.552060914391816, "sound_name": "rocks.wav.wav", "roughness": 5.4726077656670915, "hardness": 50.10125877331575, "brightness": 37.551276760911804}, "275711": {"depth": 40.65427247525384, "sound_name": "scraping_plastic_cup_on_metal04.wav.wav", "roughness": 0.6117852240476009, "hardness": 55.65278032838705, "brightness": 38.96468907341584}, "275712": {"depth": 28.08050907013312, "sound_name": "scraping_plastic_cup_on_metal03.wav.wav", "roughness": 1.7408075175229973, "hardness": 54.689259819171184, "brightness": 34.36480468986663}, "234181": {"depth": 37.9365968737671, "sound_name": "Balloon_Creak_Long_Rub_5.wav.wav", "roughness": 121.07829808245599, "hardness": 81.32421483451662, "brightness": 76.09446098343945}, "234176": {"depth": 49.739317858119975, "sound_name": "Balloon_Creak_Long_Rub_2.wav.wav", "roughness": 95.16828774879647, "hardness": 104.55164270895875, "brightness": 70.62786174697072}, "128693": {"depth": 25.433198348966144, "sound_name": "Metal Rub 6.aif.aiff", "roughness": 1.2404845479883821, "hardness": 35.81588660622583, "brightness": 20.721805303674905}, "128694": {"depth": 12.245292446417967, "sound_name": "Metal Rub 5.aif.aiff", "roughness": 0.6161580255317657, "hardness": 41.99657990517744, "brightness": 19.200777348096153}, "128699": {"depth": 44.42541244850542, "sound_name": "Metal Rub 9.aif.aiff", "roughness": 0.4817406984724965, "hardness": 54.270703905752725, "brightness": 10.3902496678744}, "101639": {"depth": 12.731661191829971, "sound_name": "CD STAND OF DOOM 084.wav.wav", "roughness": 1.45323726591005, "hardness": 55.81182397124303, "brightness": 10.040291149660824}, "101638": {"depth": 8.275596650772036, "sound_name": "CD STAND OF DOOM 083.wav.wav", "roughness": 1.30886696940728, "hardness": 59.50629206463418, "brightness": 26.38404609209057}, "119916": {"depth": 21.492687081936054, "sound_name": "Glass Squeaking.aif.aif", "roughness": 0.07956978008578203, "hardness": 44.28610432453297, "brightness": 30.113067959820754}, "101637": {"depth": 15.37475788679049, "sound_name": "CD STAND OF DOOM 082.wav.wav", "roughness": 6.334517922047118, "hardness": 67.00496864096294, "brightness": 22.816359465322613}, "101636": {"depth": 9.7696245707445, "sound_name": "CD STAND OF DOOM 081.wav.wav", "roughness": 1.7891385240341406, "hardness": 40.387382043341404, "brightness": 5.636369980573164}, "106881": {"depth": 21.69306566125107, "sound_name": "200 pounds stepping on a glass object.aif.aif", "roughness": 18.056645900244963, "hardness": 98.62080499039394, "brightness": 73.69217779776523}, "275708": {"depth": 42.08513688345619, "sound_name": "scraping_pebbles_on_metal01.wav.wav", "roughness": 15.930248732735382, "hardness": 71.10965137070752, "brightness": 61.49639069488529}, "328414": {"depth": 44.96051124106879, "sound_name": "Rubbing Styrofoam .wav.wav", "roughness": 47.858862860208895, "hardness": 86.7833341044311, "brightness": 74.12237193354376}, "275703": {"depth": 45.215728910550894, "sound_name": "rubbing_squishy_ball_on_metal02.wav.wav", "roughness": 1.2597970037006623, "hardness": 47.718322981944766, "brightness": 24.906049491215448}, "275702": {"depth": 35.52743015778941, "sound_name": "rubbing_squishy_ball_on_metal03.wav.wav", "roughness": 1.1775819536699346, "hardness": 60.86892179401411, "brightness": 47.15321223663986}, "326180": {"depth": 43.715589089531534, "sound_name": "Rubbing.wav.wav", "roughness": 0.4517611455329672, "hardness": 47.727250138696945, "brightness": 83.21481086165285}, "275704": {"depth": 39.974457645292674, "sound_name": "rubbing_squishy_ball_on_metal01.wav.wav", "roughness": 2.3451413076234164, "hardness": 57.563945606164, "brightness": 32.114620328544206}, "327830": {"depth": -4.002902696213056, "sound_name": "Rocks rubbed together.wav.wav", "roughness": 0.428320823122468, "hardness": 87.03119521102826, "brightness": 65.99546661779952}, "177351": {"depth": 10.798240623129804, "sound_name": "Swiping Glass.flac.flac", "roughness": 1.790336191226172, "hardness": 68.63224252554346, "brightness": 60.41852975307509}, "324700": {"depth": 41.86162713907018, "sound_name": "150025", "roughness": 0.003024043442094486, "hardness": 75.5578543905126, "brightness": 71.82402485309413}, "219841": {"depth": -1.188351321495901, "sound_name": "Glass Handling.flac", "roughness": 1.6843013280323216, "hardness": 70.12520888917834, "brightness": 62.41508705919895}, "128689": {"depth": 52.06793372716613, "sound_name": "Metal Rub 2.aif.aiff", "roughness": 0.18368229189627713, "hardness": 46.81529872769261, "brightness": 24.972946611729306}, "128688": {"depth": 45.08451975695887, "sound_name": "Metal Rub 3.aif.aiff", "roughness": 0.2620365767927589, "hardness": 38.371526269303104, "brightness": 24.455596559961798}, "215053": {"depth": 63.430417905188776, "sound_name": "friction balloon.wav.wav", "roughness": 3.741654679893368, "hardness": 85.23494365969418, "brightness": 72.91007515901327}, "325204": {"depth": 19.90545657524952, "sound_name": "psychopancake", "roughness": 1.8375011940583177, "hardness": 63.503474026009826, "brightness": 61.037618456949076}, "101608": {"depth": 12.76275540364928, "sound_name": "CD STAND OF DOOM 058.wav.wav", "roughness": 3.072314648016943, "hardness": -260.67255025424856, "brightness": 29.234595346710762}, "101609": {"depth": 10.902627978488159, "sound_name": "CD STAND OF DOOM 059.wav.wav", "roughness": 2.682710267110984, "hardness": -252.37299770353457, "brightness": 26.502037411572857}, "141111": {"depth": 35.533220455404745, "sound_name": "Wineglass single sample.wav.wav", "roughness": 8.362208401523015e-11, "hardness": 43.24387268049804, "brightness": -17.422346173077248}, "231975": {"depth": -5.57954307922099, "sound_name": "Metallic Zing - 1.wav", "roughness": 41.0172156933206, "hardness": -54.656583763184244, "brightness": 79.23462554536663}, "181549": {"depth": 23.634182736424393, "sound_name": "rubb_2.wav.wav", "roughness": 14.257687041536311, "hardness": 72.040302995405, "brightness": 35.879802522233}, "234208": {"depth": 6.691247599981004, "sound_name": "Balloon_Creak_Short_Rub_Multiple_1.wav.wav", "roughness": 10.196807435385143, "hardness": -2.0580780062887243, "brightness": 88.18244027318615}, "234205": {"depth": 5.323714068511235, "sound_name": "Balloon_Creak_Short_Rub_Multiple_4.wav.wav", "roughness": 10.368927257669524, "hardness": -29.922055691061814, "brightness": 91.30558048024348}, "234207": {"depth": 6.965027770641129, "sound_name": "Balloon_Creak_Short_Rub_Multiple_2.wav.wav", "roughness": 12.200467057273924, "hardness": -22.944639548858504, "brightness": 87.02796069763032}, "234206": {"depth": 6.138156848084444, "sound_name": "Balloon_Creak_Short_Rub_Multiple_3.wav.wav", "roughness": 10.69125885537233, "hardness": -113.32466263430433, "brightness": 88.99722729506814}, "212432": {"depth": 55.625247673820866, "sound_name": "Wobbly Plastic Disk.flac", "roughness": 0.23739384394480714, "hardness": 61.150015842671564, "brightness": 48.89236642803793}, "212430": {"depth": 8.599733423689997, "sound_name": "Plastic Scratching Plastic.flac", "roughness": 3.320127267409733, "hardness": 89.1507309221538, "brightness": 74.55122854910914}, "231998": {"depth": -7.388803689746744, "sound_name": "Metallic Zing - 2.wav", "roughness": 35.6049004348918, "hardness": -18.360626859056538, "brightness": 79.84541804125841}, "101616": {"depth": 27.602338848622146, "sound_name": "CD STAND OF DOOM 066.wav.wav", "roughness": 0.9795262485329863, "hardness": 64.3745537505456, "brightness": -6.582622327230091}, "101615": {"depth": 36.302215730940176, "sound_name": "CD STAND OF DOOM 065.wav.wav", "roughness": 1.8427771445603003, "hardness": 66.13135900296083, "brightness": -0.1968903243891198}, "101614": {"depth": 38.92600639224651, "sound_name": "CD STAND OF DOOM 064.wav.wav", "roughness": 1.5371101805736924, "hardness": 49.38597711838156, "brightness": 3.6432384213057887}, "101613": {"depth": 34.75549647992464, "sound_name": "CD STAND OF DOOM 063.wav.wav", "roughness": 2.2236954998312592, "hardness": 356.10709133049204, "brightness": 0.17413100868641251}, "101610": {"depth": 9.57105868337425, "sound_name": "CD STAND OF DOOM 060.wav.wav", "roughness": 3.139562597085802, "hardness": -11.695727613783674, "brightness": 29.06484032890542}, "32584": {"depth": 43.88629826397448, "sound_name": "fabric rustling.wav.wav", "roughness": 0.12212951847621535, "hardness": 38.569063186613675, "brightness": 65.9484724088293}, "272227": {"depth": -0.7465001963490892, "sound_name": "salt flakes.aiff", "roughness": 26.251646476955756, "hardness": 107.47148090112023, "brightness": 80.43858268075519}, "172586": {"depth": 48.396516588684634, "sound_name": "Rubbing against clothing.ogg.ogg", "roughness": 0.42935535028673655, "hardness": 49.454457959888714, "brightness": 28.388703802829703}, "101695": {"depth": 39.62512559494157, "sound_name": "squeak1.wav.wav", "roughness": 0.4050467955958623, "hardness": 56.800414603130776, "brightness": -13.796156978746703}, "101694": {"depth": 25.271446113329304, "sound_name": "bathtub squeaks.wav.wav", "roughness": 0.7875827041460086, "hardness": 77.33162535477823, "brightness": 26.317362918361518}, "25318": {"depth": 43.37762595965198, "sound_name": "Rubbing_Papers_ses2.wav.wav", "roughness": 23.4414956132974, "hardness": 91.73244000346403, "brightness": 68.99799585926867}, "360378": {"depth": 8.900982283815566, "sound_name": "Hand Gel Rubbing.wav", "roughness": 0.4383501743248292, "hardness": 84.14514504072577, "brightness": 81.11320812861902}, "250956": {"depth": 40.13605860383274, "sound_name": "Rubbing stones.wav", "roughness": 6.99314520432293, "hardness": 57.202943706148744, "brightness": 37.975221800901075}, "198387": {"depth": 51.89159306604201, "sound_name": "ANI - Champagne flute - Loopable Coarse Flutters.wav", "roughness": 0.95284564739673, "hardness": 54.00626722708739, "brightness": 20.839288972537567}, "222762": {"depth": 36.82590217295492, "sound_name": "Book Sounds - Rub.aiff", "roughness": 51.9266375522286, "hardness": -11.163377555246825, "brightness": 63.876585446046704}, "148079": {"depth": 40.83762556418645, "sound_name": "styrofoam 04.wav.wav", "roughness": 47.11470830747378, "hardness": 56.45620255928043, "brightness": 75.03335157055612}, "14886": {"depth": 30.593459451074402, "sound_name": "rubber tot.wav.wav", "roughness": 2.627808951295475, "hardness": 95.17435821246454, "brightness": 72.77065546267936}, "128700": {"depth": 38.577969126751945, "sound_name": "Metal Rub 8.aif.aiff", "roughness": 0.3213177417783772, "hardness": 31.313810215588546, "brightness": 15.678859639194613}, "198403": {"depth": 14.058099416837777, "sound_name": "ANI - Wine glass - Rubbing 1a.wav", "roughness": 3.916428246666319e-09, "hardness": 37.72985038615934, "brightness": 10.72641697662764}, "235539": {"depth": 144.81640474828458, "sound_name": "deodorant rub.wav.wav", "roughness": 82.93518765628372, "hardness": 96.87933004077104, "brightness": 82.61502871217424}, "235335": {"depth": 13.912644093604136, "sound_name": "skin impact SFX 44100 1.wav.wav", "roughness": 0.0022027957545367885, "hardness": 89.73792975116794, "brightness": 68.70751249886514}, "235807": {"depth": 42.14925271343782, "sound_name": "Cardboard Rub 1 Short Open - Close.wav.wav", "roughness": 2.9313085955867004, "hardness": 65.13903569032573, "brightness": 62.63532169487017}, "235808": {"depth": 33.22331922013546, "sound_name": "Cardboard Rub 1 Long Open - Close.wav.wav", "roughness": 2.853972696290782, "hardness": 58.13856220273874, "brightness": 58.620091846183286}, "349891": {"depth": 59.61913612937169, "sound_name": "skin-02.wav.wav", "roughness": 0.556601556500894, "hardness": 60.26373017286551, "brightness": 76.82343768050568}, "288932": {"depth": 24.278228572216513, "sound_name": "toefur", "roughness": 1.5346414607035257, "hardness": 82.04034399326156, "brightness": 78.34702343006792}, "232100": {"depth": -12.518949478456477, "sound_name": "Metallic Zing - 3.wav", "roughness": 26.063969774655575, "hardness": -43.328358653349824, "brightness": 77.88932240858811}}}
+{
+  "Rubbing": {
+    "110004": {
+      "depth": 35.403062456211075,
+      "sound_name": "109861",
+      "roughness": 4.5557276076901285,
+      "hardness": 43.824785590923966,
+      "brightness": 52.510870886684486
+    },
+    "110005": {
+      "depth": 35.04577055173223,
+      "sound_name": "109861",
+      "roughness": 4.2798766620229785,
+      "hardness": 63.21006518999184,
+      "brightness": 46.55117801327657
+    },
+    "29862": {
+      "depth": 14.912104726630801,
+      "sound_name": "Unionskin.wav.wav",
+      "roughness": 87.98667992104474,
+      "hardness": 100.12502087727898,
+      "brightness": 79.84598723983851
+    },
+    "140463": {
+      "depth": 28.313359405388752,
+      "sound_name": "Packaging Paper Rub Sliding Between Hands.wav.wav",
+      "roughness": 75.17989204055635,
+      "hardness": 83.71263026016186,
+      "brightness": 85.46070231663903
+    },
+    "196985": {
+      "depth": 11.4214732088871,
+      "sound_name": "Impact and friction on a soft sheet.wav",
+      "roughness": 0.3310610708474742,
+      "hardness": 60.76973346225577,
+      "brightness": 79.85245470692819
+    },
+    "197854": {
+      "depth": 12.744624653397942,
+      "sound_name": "CPU heatsink and a coin.wav",
+      "roughness": 7.076457097090668,
+      "hardness": 93.48355421666383,
+      "brightness": 74.73232291102185
+    },
+    "329927": {
+      "depth": 14.359907728264268,
+      "sound_name": "michael-kur95",
+      "roughness": 20.61325877702088,
+      "hardness": 85.57740426699911,
+      "brightness": 73.35965821585678
+    },
+    "275527": {
+      "depth": 70.5562534881204,
+      "sound_name": "contact_mic_on_plate04.wav.wav",
+      "roughness": 0.24531957393234502,
+      "hardness": 47.938354495084695,
+      "brightness": 25.168334264658448
+    },
+    "148081": {
+      "depth": 47.60539257838682,
+      "sound_name": "styrofoam 02.wav.wav",
+      "roughness": 4.890312243194342,
+      "hardness": 46.244011419855724,
+      "brightness": 59.274254149532524
+    },
+    "148080": {
+      "depth": 85.44165094064127,
+      "sound_name": "styrofoam 03.wav.wav",
+      "roughness": 13.08686167928202,
+      "hardness": 40.05732731479111,
+      "brightness": 70.28287956117842
+    },
+    "29859": {
+      "depth": 82.56776247226617,
+      "sound_name": "Appleskin.wav.wav",
+      "roughness": 0.06332106750709349,
+      "hardness": 72.20012615994165,
+      "brightness": 50.34772564859651
+    },
+    "148085": {
+      "depth": 31.63347743211365,
+      "sound_name": "styrofoam 05.wav.wav",
+      "roughness": 67.18388957803494,
+      "hardness": 99.97716546350648,
+      "brightness": 80.53594483742458
+    },
+    "148084": {
+      "depth": 12.701192655592376,
+      "sound_name": "styrofoam 06.wav.wav",
+      "roughness": 2.7850395686030396,
+      "hardness": 86.74375578223226,
+      "brightness": 70.86442527503586
+    },
+    "101882": {
+      "depth": 58.08452635790513,
+      "sound_name": "Remix of 43156",
+      "roughness": 10.203279447690509,
+      "hardness": 58.654225450492504,
+      "brightness": 63.24201503040493
+    },
+    "344705": {
+      "depth": 19.090604592442194,
+      "sound_name": "Burlap_cloth_rub_scratch.wav.wav",
+      "roughness": 3.179233618568045,
+      "hardness": 3.468310021360139,
+      "brightness": 66.52757365577922
+    },
+    "178081": {
+      "depth": 26.19501914092475,
+      "sound_name": "guitar string rubbed with coin.wav",
+      "roughness": 0.69016979843739,
+      "hardness": 62.9448167434889,
+      "brightness": 50.032413308084884
+    },
+    "274813": {
+      "depth": 10.84054768675767,
+      "sound_name": "metallic scratches an rubs.wav.wav",
+      "roughness": 0.26500543474430144,
+      "hardness": 81.80284491078419,
+      "brightness": 61.80139871688894
+    },
+    "234177": {
+      "depth": 65.76852917640949,
+      "sound_name": "terhen",
+      "roughness": 35.65690498725772,
+      "hardness": 67.76349312888169,
+      "brightness": 66.04743667862124
+    },
+    "234180": {
+      "depth": 37.500967563182954,
+      "sound_name": "Balloon_Creak_Long_Rub_6.wav.wav",
+      "roughness": 131.02314608972594,
+      "hardness": 67.45342302792687,
+      "brightness": 74.61585134772062
+    },
+    "234175": {
+      "depth": 37.026933733268095,
+      "sound_name": "Balloon_Creak_Long_Rub_3.wav.wav",
+      "roughness": 99.18614661637962,
+      "hardness": 84.60084741926221,
+      "brightness": 72.0934965505241
+    },
+    "234174": {
+      "depth": 63.31978261147789,
+      "sound_name": "Balloon_Creak_Long_Rub_4.wav.wav",
+      "roughness": 93.3996641011198,
+      "hardness": 98.84624685874314,
+      "brightness": 71.50855291082718
+    },
+    "211173": {
+      "depth": 25.332007310841814,
+      "sound_name": "Finger slipping over plastic lid.wav.wav",
+      "roughness": 0.9959827266786491,
+      "hardness": 81.58973416007802,
+      "brightness": 27.152033903300882
+    },
+    "344717": {
+      "depth": 27.78790736864198,
+      "sound_name": "Plastic_crumple_.wav.wav",
+      "roughness": 114.93642342986234,
+      "hardness": 108.33240400968953,
+      "brightness": 79.2595407149427
+    },
+    "115349": {
+      "depth": 46.22327481829359,
+      "sound_name": "remix #1b of 115344",
+      "roughness": 136.9216020671913,
+      "hardness": 22.82504651281306,
+      "brightness": 74.59512722238404
+    },
+    "245391": {
+      "depth": 59.03615072960269,
+      "sound_name": "wobbly landing-stage contactmic 140729_0312.wav.wav",
+      "roughness": 0.027519760211392612,
+      "hardness": 37.73571819798508,
+      "brightness": 0.9575919802496564
+    },
+    "115346": {
+      "depth": 47.95181479665061,
+      "sound_name": "remix #1 of 115344",
+      "roughness": 122.50673992320797,
+      "hardness": -5.835376198646372,
+      "brightness": 74.60170259514095
+    },
+    "115347": {
+      "depth": 74.27112000600621,
+      "sound_name": "remix #3 of 115344",
+      "roughness": 383.37331653237055,
+      "hardness": NaN,
+      "brightness": 84.95598676731167
+    },
+    "20298": {
+      "depth": 36.48975163299403,
+      "sound_name": "brush_rubbing2.aif.aif",
+      "roughness": 7.554475436627135,
+      "hardness": 95.12799151698027,
+      "brightness": 75.91907842206325
+    },
+    "20297": {
+      "depth": 48.70285486901914,
+      "sound_name": "brush_rubbing1.aif.aif",
+      "roughness": 37.25121664588117,
+      "hardness": 97.97209469007794,
+      "brightness": 77.6737744040982
+    },
+    "209657": {
+      "depth": 82.2915324967008,
+      "sound_name": "20131203_Rubbing Toothbrush Wall _ZoomH2nXY.wav.wav",
+      "roughness": 0.6948963471644165,
+      "hardness": 117.87009881755057,
+      "brightness": 82.40382558991493
+    },
+    "154872": {
+      "depth": 49.80331059597866,
+      "sound_name": "work gloves cloth.wav.wav",
+      "roughness": 3.3940749139275668,
+      "hardness": 69.17791222314781,
+      "brightness": 68.1006211189116
+    },
+    "189675": {
+      "depth": 81.88454133544604,
+      "sound_name": "washing body.wav",
+      "roughness": 152.53551544281578,
+      "hardness": 119.56812645848959,
+      "brightness": 81.42170027784584
+    },
+    "250199": {
+      "depth": 27.552060914391816,
+      "sound_name": "rocks.wav.wav",
+      "roughness": 5.4726077656670915,
+      "hardness": 50.10125877331575,
+      "brightness": 37.551276760911804
+    },
+    "275711": {
+      "depth": 40.65427247525384,
+      "sound_name": "scraping_plastic_cup_on_metal04.wav.wav",
+      "roughness": 0.6117852240476009,
+      "hardness": 55.65278032838705,
+      "brightness": 38.96468907341584
+    },
+    "275712": {
+      "depth": 28.08050907013312,
+      "sound_name": "scraping_plastic_cup_on_metal03.wav.wav",
+      "roughness": 1.7408075175229973,
+      "hardness": 54.689259819171184,
+      "brightness": 34.36480468986663
+    },
+    "234181": {
+      "depth": 37.9365968737671,
+      "sound_name": "Balloon_Creak_Long_Rub_5.wav.wav",
+      "roughness": 121.07829808245599,
+      "hardness": 81.32421483451662,
+      "brightness": 76.09446098343945
+    },
+    "234176": {
+      "depth": 49.739317858119975,
+      "sound_name": "Balloon_Creak_Long_Rub_2.wav.wav",
+      "roughness": 95.16828774879647,
+      "hardness": 104.55164270895875,
+      "brightness": 70.62786174697072
+    },
+    "128693": {
+      "depth": 25.433198348966144,
+      "sound_name": "Metal Rub 6.aif.aiff",
+      "roughness": 1.2404845479883821,
+      "hardness": 35.81588660622583,
+      "brightness": 20.721805303674905
+    },
+    "128694": {
+      "depth": 12.245292446417967,
+      "sound_name": "Metal Rub 5.aif.aiff",
+      "roughness": 0.6161580255317657,
+      "hardness": 41.99657990517744,
+      "brightness": 19.200777348096153
+    },
+    "128699": {
+      "depth": 44.42541244850542,
+      "sound_name": "Metal Rub 9.aif.aiff",
+      "roughness": 0.4817406984724965,
+      "hardness": 54.270703905752725,
+      "brightness": 10.3902496678744
+    },
+    "101639": {
+      "depth": 12.731661191829971,
+      "sound_name": "CD STAND OF DOOM 084.wav.wav",
+      "roughness": 1.45323726591005,
+      "hardness": 55.81182397124303,
+      "brightness": 10.040291149660824
+    },
+    "101638": {
+      "depth": 8.275596650772036,
+      "sound_name": "CD STAND OF DOOM 083.wav.wav",
+      "roughness": 1.30886696940728,
+      "hardness": 59.50629206463418,
+      "brightness": 26.38404609209057
+    },
+    "119916": {
+      "depth": 21.492687081936054,
+      "sound_name": "Glass Squeaking.aif.aif",
+      "roughness": 0.07956978008578203,
+      "hardness": 44.28610432453297,
+      "brightness": 30.113067959820754
+    },
+    "101637": {
+      "depth": 15.37475788679049,
+      "sound_name": "CD STAND OF DOOM 082.wav.wav",
+      "roughness": 6.334517922047118,
+      "hardness": 67.00496864096294,
+      "brightness": 22.816359465322613
+    },
+    "101636": {
+      "depth": 9.7696245707445,
+      "sound_name": "CD STAND OF DOOM 081.wav.wav",
+      "roughness": 1.7891385240341406,
+      "hardness": 40.387382043341404,
+      "brightness": 5.636369980573164
+    },
+    "106881": {
+      "depth": 21.69306566125107,
+      "sound_name": "200 pounds stepping on a glass object.aif.aif",
+      "roughness": 18.056645900244963,
+      "hardness": 98.62080499039394,
+      "brightness": 73.69217779776523
+    },
+    "275708": {
+      "depth": 42.08513688345619,
+      "sound_name": "scraping_pebbles_on_metal01.wav.wav",
+      "roughness": 15.930248732735382,
+      "hardness": 71.10965137070752,
+      "brightness": 61.49639069488529
+    },
+    "328414": {
+      "depth": 44.96051124106879,
+      "sound_name": "Rubbing Styrofoam .wav.wav",
+      "roughness": 47.858862860208895,
+      "hardness": 86.7833341044311,
+      "brightness": 74.12237193354376
+    },
+    "275703": {
+      "depth": 45.215728910550894,
+      "sound_name": "rubbing_squishy_ball_on_metal02.wav.wav",
+      "roughness": 1.2597970037006623,
+      "hardness": 47.718322981944766,
+      "brightness": 24.906049491215448
+    },
+    "275702": {
+      "depth": 35.52743015778941,
+      "sound_name": "rubbing_squishy_ball_on_metal03.wav.wav",
+      "roughness": 1.1775819536699346,
+      "hardness": 60.86892179401411,
+      "brightness": 47.15321223663986
+    },
+    "326180": {
+      "depth": 43.715589089531534,
+      "sound_name": "Rubbing.wav.wav",
+      "roughness": 0.4517611455329672,
+      "hardness": 47.727250138696945,
+      "brightness": 83.21481086165285
+    },
+    "275704": {
+      "depth": 39.974457645292674,
+      "sound_name": "rubbing_squishy_ball_on_metal01.wav.wav",
+      "roughness": 2.3451413076234164,
+      "hardness": 57.563945606164,
+      "brightness": 32.114620328544206
+    },
+    "327830": {
+      "depth": -4.002902696213056,
+      "sound_name": "Rocks rubbed together.wav.wav",
+      "roughness": 0.428320823122468,
+      "hardness": 87.03119521102826,
+      "brightness": 65.99546661779952
+    },
+    "177351": {
+      "depth": 10.798240623129804,
+      "sound_name": "Swiping Glass.flac.flac",
+      "roughness": 1.790336191226172,
+      "hardness": 68.63224252554346,
+      "brightness": 60.41852975307509
+    },
+    "324700": {
+      "depth": 41.86162713907018,
+      "sound_name": "150025",
+      "roughness": 0.003024043442094486,
+      "hardness": 75.5578543905126,
+      "brightness": 71.82402485309413
+    },
+    "219841": {
+      "depth": -1.188351321495901,
+      "sound_name": "Glass Handling.flac",
+      "roughness": 1.6843013280323216,
+      "hardness": 70.12520888917834,
+      "brightness": 62.41508705919895
+    },
+    "128689": {
+      "depth": 52.06793372716613,
+      "sound_name": "Metal Rub 2.aif.aiff",
+      "roughness": 0.18368229189627713,
+      "hardness": 46.81529872769261,
+      "brightness": 24.972946611729306
+    },
+    "128688": {
+      "depth": 45.08451975695887,
+      "sound_name": "Metal Rub 3.aif.aiff",
+      "roughness": 0.2620365767927589,
+      "hardness": 38.371526269303104,
+      "brightness": 24.455596559961798
+    },
+    "215053": {
+      "depth": 63.430417905188776,
+      "sound_name": "friction balloon.wav.wav",
+      "roughness": 3.741654679893368,
+      "hardness": 85.23494365969418,
+      "brightness": 72.91007515901327
+    },
+    "325204": {
+      "depth": 19.90545657524952,
+      "sound_name": "psychopancake",
+      "roughness": 1.8375011940583177,
+      "hardness": 63.503474026009826,
+      "brightness": 61.037618456949076
+    },
+    "101608": {
+      "depth": 12.76275540364928,
+      "sound_name": "CD STAND OF DOOM 058.wav.wav",
+      "roughness": 3.072314648016943,
+      "hardness": -260.67255025424856,
+      "brightness": 29.234595346710762
+    },
+    "101609": {
+      "depth": 10.902627978488159,
+      "sound_name": "CD STAND OF DOOM 059.wav.wav",
+      "roughness": 2.682710267110984,
+      "hardness": -252.37299770353457,
+      "brightness": 26.502037411572857
+    },
+    "141111": {
+      "depth": 35.533220455404745,
+      "sound_name": "Wineglass single sample.wav.wav",
+      "roughness": 8.362208401523015e-11,
+      "hardness": 43.24387268049804,
+      "brightness": -17.422346173077248
+    },
+    "231975": {
+      "depth": -5.57954307922099,
+      "sound_name": "Metallic Zing - 1.wav",
+      "roughness": 41.0172156933206,
+      "hardness": -54.656583763184244,
+      "brightness": 79.23462554536663
+    },
+    "181549": {
+      "depth": 23.634182736424393,
+      "sound_name": "rubb_2.wav.wav",
+      "roughness": 14.257687041536311,
+      "hardness": 72.040302995405,
+      "brightness": 35.879802522233
+    },
+    "234208": {
+      "depth": 6.691247599981004,
+      "sound_name": "Balloon_Creak_Short_Rub_Multiple_1.wav.wav",
+      "roughness": 10.196807435385143,
+      "hardness": -2.0580780062887243,
+      "brightness": 88.18244027318615
+    },
+    "234205": {
+      "depth": 5.323714068511235,
+      "sound_name": "Balloon_Creak_Short_Rub_Multiple_4.wav.wav",
+      "roughness": 10.368927257669524,
+      "hardness": -29.922055691061814,
+      "brightness": 91.30558048024348
+    },
+    "234207": {
+      "depth": 6.965027770641129,
+      "sound_name": "Balloon_Creak_Short_Rub_Multiple_2.wav.wav",
+      "roughness": 12.200467057273924,
+      "hardness": -22.944639548858504,
+      "brightness": 87.02796069763032
+    },
+    "234206": {
+      "depth": 6.138156848084444,
+      "sound_name": "Balloon_Creak_Short_Rub_Multiple_3.wav.wav",
+      "roughness": 10.69125885537233,
+      "hardness": -113.32466263430433,
+      "brightness": 88.99722729506814
+    },
+    "212432": {
+      "depth": 55.625247673820866,
+      "sound_name": "Wobbly Plastic Disk.flac",
+      "roughness": 0.23739384394480714,
+      "hardness": 61.150015842671564,
+      "brightness": 48.89236642803793
+    },
+    "212430": {
+      "depth": 8.599733423689997,
+      "sound_name": "Plastic Scratching Plastic.flac",
+      "roughness": 3.320127267409733,
+      "hardness": 89.1507309221538,
+      "brightness": 74.55122854910914
+    },
+    "231998": {
+      "depth": -7.388803689746744,
+      "sound_name": "Metallic Zing - 2.wav",
+      "roughness": 35.6049004348918,
+      "hardness": -18.360626859056538,
+      "brightness": 79.84541804125841
+    },
+    "101616": {
+      "depth": 27.602338848622146,
+      "sound_name": "CD STAND OF DOOM 066.wav.wav",
+      "roughness": 0.9795262485329863,
+      "hardness": 64.3745537505456,
+      "brightness": -6.582622327230091
+    },
+    "101615": {
+      "depth": 36.302215730940176,
+      "sound_name": "CD STAND OF DOOM 065.wav.wav",
+      "roughness": 1.8427771445603003,
+      "hardness": 66.13135900296083,
+      "brightness": -0.1968903243891198
+    },
+    "101614": {
+      "depth": 38.92600639224651,
+      "sound_name": "CD STAND OF DOOM 064.wav.wav",
+      "roughness": 1.5371101805736924,
+      "hardness": 49.38597711838156,
+      "brightness": 3.6432384213057887
+    },
+    "101613": {
+      "depth": 34.75549647992464,
+      "sound_name": "CD STAND OF DOOM 063.wav.wav",
+      "roughness": 2.2236954998312592,
+      "hardness": 356.10709133049204,
+      "brightness": 0.17413100868641251
+    },
+    "101610": {
+      "depth": 9.57105868337425,
+      "sound_name": "CD STAND OF DOOM 060.wav.wav",
+      "roughness": 3.139562597085802,
+      "hardness": -11.695727613783674,
+      "brightness": 29.06484032890542
+    },
+    "32584": {
+      "depth": 43.88629826397448,
+      "sound_name": "fabric rustling.wav.wav",
+      "roughness": 0.12212951847621535,
+      "hardness": 38.569063186613675,
+      "brightness": 65.9484724088293
+    },
+    "272227": {
+      "depth": -0.7465001963490892,
+      "sound_name": "salt flakes.aiff",
+      "roughness": 26.251646476955756,
+      "hardness": 107.47148090112023,
+      "brightness": 80.43858268075519
+    },
+    "172586": {
+      "depth": 48.396516588684634,
+      "sound_name": "Rubbing against clothing.ogg.ogg",
+      "roughness": 0.42935535028673655,
+      "hardness": 49.454457959888714,
+      "brightness": 28.388703802829703
+    },
+    "101695": {
+      "depth": 39.62512559494157,
+      "sound_name": "squeak1.wav.wav",
+      "roughness": 0.4050467955958623,
+      "hardness": 56.800414603130776,
+      "brightness": -13.796156978746703
+    },
+    "101694": {
+      "depth": 25.271446113329304,
+      "sound_name": "bathtub squeaks.wav.wav",
+      "roughness": 0.7875827041460086,
+      "hardness": 77.33162535477823,
+      "brightness": 26.317362918361518
+    },
+    "25318": {
+      "depth": 43.37762595965198,
+      "sound_name": "Rubbing_Papers_ses2.wav.wav",
+      "roughness": 23.4414956132974,
+      "hardness": 91.73244000346403,
+      "brightness": 68.99799585926867
+    },
+    "360378": {
+      "depth": 8.900982283815566,
+      "sound_name": "Hand Gel Rubbing.wav",
+      "roughness": 0.4383501743248292,
+      "hardness": 84.14514504072577,
+      "brightness": 81.11320812861902
+    },
+    "250956": {
+      "depth": 40.13605860383274,
+      "sound_name": "Rubbing stones.wav",
+      "roughness": 6.99314520432293,
+      "hardness": 57.202943706148744,
+      "brightness": 37.975221800901075
+    },
+    "198387": {
+      "depth": 51.89159306604201,
+      "sound_name": "ANI - Champagne flute - Loopable Coarse Flutters.wav",
+      "roughness": 0.95284564739673,
+      "hardness": 54.00626722708739,
+      "brightness": 20.839288972537567
+    },
+    "222762": {
+      "depth": 36.82590217295492,
+      "sound_name": "Book Sounds - Rub.aiff",
+      "roughness": 51.9266375522286,
+      "hardness": -11.163377555246825,
+      "brightness": 63.876585446046704
+    },
+    "148079": {
+      "depth": 40.83762556418645,
+      "sound_name": "styrofoam 04.wav.wav",
+      "roughness": 47.11470830747378,
+      "hardness": 56.45620255928043,
+      "brightness": 75.03335157055612
+    },
+    "14886": {
+      "depth": 30.593459451074402,
+      "sound_name": "rubber tot.wav.wav",
+      "roughness": 2.627808951295475,
+      "hardness": 95.17435821246454,
+      "brightness": 72.77065546267936
+    },
+    "128700": {
+      "depth": 38.577969126751945,
+      "sound_name": "Metal Rub 8.aif.aiff",
+      "roughness": 0.3213177417783772,
+      "hardness": 31.313810215588546,
+      "brightness": 15.678859639194613
+    },
+    "198403": {
+      "depth": 14.058099416837777,
+      "sound_name": "ANI - Wine glass - Rubbing 1a.wav",
+      "roughness": 3.916428246666319e-09,
+      "hardness": 37.72985038615934,
+      "brightness": 10.72641697662764
+    },
+    "235539": {
+      "depth": 144.81640474828458,
+      "sound_name": "deodorant rub.wav.wav",
+      "roughness": 82.93518765628372,
+      "hardness": 96.87933004077104,
+      "brightness": 82.61502871217424
+    },
+    "235335": {
+      "depth": 13.912644093604136,
+      "sound_name": "skin impact SFX 44100 1.wav.wav",
+      "roughness": 0.0022027957545367885,
+      "hardness": 89.73792975116794,
+      "brightness": 68.70751249886514
+    },
+    "235807": {
+      "depth": 42.14925271343782,
+      "sound_name": "Cardboard Rub 1 Short Open - Close.wav.wav",
+      "roughness": 2.9313085955867004,
+      "hardness": 65.13903569032573,
+      "brightness": 62.63532169487017
+    },
+    "235808": {
+      "depth": 33.22331922013546,
+      "sound_name": "Cardboard Rub 1 Long Open - Close.wav.wav",
+      "roughness": 2.853972696290782,
+      "hardness": 58.13856220273874,
+      "brightness": 58.620091846183286
+    },
+    "349891": {
+      "depth": 59.61913612937169,
+      "sound_name": "skin-02.wav.wav",
+      "roughness": 0.556601556500894,
+      "hardness": 60.26373017286551,
+      "brightness": 76.82343768050568
+    },
+    "288932": {
+      "depth": 24.278228572216513,
+      "sound_name": "toefur",
+      "roughness": 1.5346414607035257,
+      "hardness": 82.04034399326156,
+      "brightness": 78.34702343006792
+    },
+    "232100": {
+      "depth": -12.518949478456477,
+      "sound_name": "Metallic Zing - 3.wav",
+      "roughness": 26.063969774655575,
+      "hardness": -43.328358653349824,
+      "brightness": 77.88932240858811
+    }
+  }
+}

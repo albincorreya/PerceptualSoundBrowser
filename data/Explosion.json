@@ -1,1 +1,711 @@
-{"Explosion":{"177556": {"depth": 53.805536222811796, "sound_name": "massive explosion.wav", "roughness": 0.08251843023442772, "hardness": 57.33173046702905, "brightness": 12.367164457727384}, "158425": {"depth": 146.6495045994634, "sound_name": "Space to Earth Explosion.wav.wav", "roughness": 2.7989488491897214, "hardness": 60.50455471944724, "brightness": 45.65136345581588}, "6721": {"depth": 62.0723599310777, "sound_name": "boom3.wav.wav", "roughness": 1.2776762200089582, "hardness": 42.221332701903066, "brightness": -2.949147038273953}, "6720": {"depth": 42.906238951373446, "sound_name": "boom2.wav.wav", "roughness": 2.148506326551505, "hardness": 48.22758497869199, "brightness": -3.721939116919458}, "6719": {"depth": 68.20186447217694, "sound_name": "boom1.wav.wav", "roughness": 0.8216467920208106, "hardness": 41.21192901191489, "brightness": -22.7649151020224}, "259300": {"depth": 56.65964873114449, "sound_name": "Huge Explosion.flac", "roughness": 0.493272573812045, "hardness": 43.677093484619945, "brightness": 8.592396204519915}, "203331": {"depth": 82.37607859793346, "sound_name": "explosion_documentary_Veiler.wav.wav", "roughness": 0.5483025361372598, "hardness": 39.38782277706014, "brightness": -3.229113275249894}, "35461": {"depth": 27.754955299398944, "sound_name": "Explosion 4.wav.wav", "roughness": 4.3439650308193505, "hardness": 92.94112223007323, "brightness": 10.5406368654808}, "353318": {"depth": 32.3996366520106, "sound_name": "Massive explosion.wav.wav", "roughness": 0.7292337745146917, "hardness": 33.617668186194805, "brightness": 1.368171466436415}, "328836": {"depth": 36.14606771192303, "sound_name": "HUGE AND LOUD Explosion.wav", "roughness": 39.249325360150856, "hardness": 81.21695214586543, "brightness": 52.154652366319596}, "387229": {"depth": 25.565912891522075, "sound_name": "Explosion (CloseNear) (Mixed).wav", "roughness": 0.2496466490804238, "hardness": 78.44138765526804, "brightness": 50.58036934942052}, "189778": {"depth": 29.56935541012846, "sound_name": "Explosive.flac.flac", "roughness": 9.085675452809092, "hardness": 75.09085754724447, "brightness": 52.317208579192126}, "114046": {"depth": 44.22357040089799, "sound_name": "kl_ex2.wav.wav", "roughness": 5.930979648733948, "hardness": 82.74137164598415, "brightness": 40.23758268642101}, "114047": {"depth": 52.92276974499529, "sound_name": "kl_ex3.wav.wav", "roughness": 3.025058025332825, "hardness": 72.1947764642523, "brightness": 43.070920373424556}, "197970": {"depth": 24.85013072730014, "sound_name": "Explosion.wav", "roughness": 3.6866659967819175, "hardness": 8.38969975247528, "brightness": 42.00337775879858}, "165910": {"depth": 40.05583469443441, "sound_name": "Explosion 2.wav.wav", "roughness": 3.6223836148046806, "hardness": 60.39448435497252, "brightness": 56.90960666825964}, "165911": {"depth": 39.65551025131165, "sound_name": "Explosion 1.wav.wav", "roughness": 1.4771748174552688, "hardness": 61.1908592853938, "brightness": 53.69538234297862}, "114048": {"depth": 35.889639821640635, "sound_name": "kl_ex4.wav.wav", "roughness": 3.7378467261005994, "hardness": 80.07538376378488, "brightness": 56.1297670992617}, "114049": {"depth": 33.28441525063003, "sound_name": "kl_ex5.wav.wav", "roughness": 6.5316022787700945, "hardness": 76.26683517717993, "brightness": 34.3750055544915}, "370267": {"depth": 23.601743037826257, "sound_name": "naturalistic synthetic explosions.flac.flac", "roughness": 6.932927938873985, "hardness": 56.62263435206523, "brightness": 28.56579855000983}, "367622": {"depth": 84.8771800889222, "sound_name": "Explosion with Debris.wav.wav", "roughness": 9.932097663169461, "hardness": 79.15881664091103, "brightness": 57.10202565690571}, "231765": {"depth": 8.40342925772319, "sound_name": "Tank Explosion.flac", "roughness": 1.7670028161531284, "hardness": 91.00772923174236, "brightness": 34.124324313593135}, "181476": {"depth": 50.11715703887084, "sound_name": "Explosion_5.ogg.ogg", "roughness": 0.8628709270425167, "hardness": 63.72056925964171, "brightness": 4.569356558642294}, "162265": {"depth": 37.987997794677234, "sound_name": "Explosive.flac", "roughness": 3.6430920921002, "hardness": 48.15231578705789, "brightness": 30.467744898610036}, "210613": {"depth": 48.39327210864134, "sound_name": "Explosion001.wav.wav", "roughness": 0.4037324526289904, "hardness": 72.5706402147739, "brightness": 41.573196166560066}, "387230": {"depth": 22.192698367516172, "sound_name": "Explosion VAR 2 (CloseNear) (Mixed).wav", "roughness": 0.5258243978566647, "hardness": 61.52464082777351, "brightness": 45.53517841351099}, "165909": {"depth": 37.57755684286467, "sound_name": "Explosion 3.wav.wav", "roughness": 2.52748710505381, "hardness": 63.76502075618464, "brightness": 47.673632189670556}, "114050": {"depth": 46.207696867643314, "sound_name": "kl_ex6.wav.wav", "roughness": 4.888455328797471, "hardness": 81.28788931066038, "brightness": 54.0199576061849}, "56598": {"depth": 36.911624164908034, "sound_name": "fireworks_close_explosion.wav.wav", "roughness": 73.85501607507358, "hardness": 84.29685633648887, "brightness": 67.80786732807255}, "366086": {"depth": 47.913319362797395, "sound_name": "Huge Explosion Part 3 - Long Crash.aiff", "roughness": 3.4632131623065687, "hardness": 71.48560524099867, "brightness": 52.821588606770874}, "191694": {"depth": 67.50302926041985, "sound_name": "Explosion 4.wav", "roughness": 0.3899865125455075, "hardness": 87.96271066342342, "brightness": 59.48198434194235}, "191692": {"depth": 68.10398096454236, "sound_name": "Explosion 2.wav", "roughness": 2.3621674810162583, "hardness": 44.883563202789446, "brightness": 36.13309714515081}, "191693": {"depth": 54.6838602531209, "sound_name": "Explosion 3.wav", "roughness": 1.1878658822979222, "hardness": 47.544240534587516, "brightness": 9.954622468502663}, "191691": {"depth": 68.5269159432375, "sound_name": "Explosion 1.wav", "roughness": 0.9538707888085762, "hardness": 44.86370237822848, "brightness": 14.258257214246193}, "244394": {"depth": 38.401618060711876, "sound_name": "BangExplosion Metallic.wav", "roughness": 0.09888577040673154, "hardness": 52.25952578538045, "brightness": 10.208187813882908}, "366091": {"depth": 56.52362427318384, "sound_name": "Huge Explosion Part 1 - Shockwave.aiff", "roughness": 3.787033698807648, "hardness": 63.12574213580001, "brightness": 52.357001368696814}, "372086": {"depth": 32.247331823529194, "sound_name": "Distant Explosion.wav.wav", "roughness": 0.23005533199708525, "hardness": 24.811244969751442, "brightness": -14.979205939009619}, "369530": {"depth": 31.609625387239593, "sound_name": "Long Decay Explosion (2).wav.wav", "roughness": 18.890641606733517, "hardness": 81.55432313964457, "brightness": 47.51932136691539}, "398283": {"depth": 34.47940379346268, "sound_name": "Explosion.wav", "roughness": 2.7834073931693357, "hardness": 66.682325593938, "brightness": 29.29126864513229}, "349130": {"depth": 46.354227719479034, "sound_name": "Impact_3_full.wav.wav", "roughness": 2.0285703888926596, "hardness": 65.78966265666304, "brightness": 36.400920031162904}, "349131": {"depth": 47.37161106141917, "sound_name": "Impact_2_full.wav.wav", "roughness": 2.3905657537582967, "hardness": 49.04715514735108, "brightness": 40.16501181126725}, "349132": {"depth": 49.858301612026864, "sound_name": "Impact_1_full.wav.wav", "roughness": 1.1648095058026553, "hardness": 59.64801149138657, "brightness": 33.92836703084473}, "154680": {"depth": 10.8565562292, "sound_name": "fried016ms.wav.wav", "roughness": 0.0, "hardness": 100.95092769533858, "brightness": 27.085189715122418}, "382943": {"depth": 45.68069319389382, "sound_name": "Explosion (Ambient) 3.wav.wav", "roughness": 0.08085316830370988, "hardness": 29.000494342168167, "brightness": -14.398497955366935}, "366088": {"depth": 56.314195016919555, "sound_name": "Huge Explosion Part 2 - Impact.aiff", "roughness": 0.2127871358060087, "hardness": 50.297320684180704, "brightness": 10.82650520322634}, "352143": {"depth": 33.71215203445955, "sound_name": "Clean Explosions.flac", "roughness": 0.10374393555635586, "hardness": 75.188428646195, "brightness": 16.475051149282002}, "35459": {"depth": 40.41974681708656, "sound_name": "Explosion 2.wav.wav", "roughness": 2.2764503144553796, "hardness": 54.30205453593544, "brightness": -32.7837147994034}, "159402": {"depth": 28.427644533253094, "sound_name": "OverheadExplosion.wav.wav", "roughness": 0.45755645178917287, "hardness": 40.00256733442893, "brightness": -17.049712729887844}, "209769": {"depth": 60.11114170752039, "sound_name": "Explosion Distant .aiff", "roughness": 0.12576164943892723, "hardness": 17.17083566128622, "brightness": -18.744744256423655}, "369529": {"depth": 33.67728353697071, "sound_name": "Medium Explosion.wav.wav", "roughness": 19.47180726485045, "hardness": 66.8925415516992, "brightness": 48.26159938887504}, "156500": {"depth": 47.518574665272965, "sound_name": "Big Far Explosion.wav", "roughness": 0.08541941620064254, "hardness": 68.30071031151556, "brightness": 11.188483950322578}, "369524": {"depth": 26.40487515900841, "sound_name": "Long Decay Explosion (1).wav.wav", "roughness": 23.507475357392174, "hardness": 82.90361990337351, "brightness": 52.265348167270275}, "35458": {"depth": 28.4015605408497, "sound_name": "Explosion 1.wav.wav", "roughness": 3.3988658543753796, "hardness": 85.49877533185145, "brightness": -34.682159941130024}, "154679": {"depth": 47.62526040769548, "sound_name": "f016ms_3_3.wav.wav", "roughness": 0.49812368475277113, "hardness": 92.05874365278123, "brightness": 44.81360965849346}, "35464": {"depth": 30.634763151726695, "sound_name": "Explosion 7.wav.wav", "roughness": 3.077134943879617, "hardness": 86.08161786638811, "brightness": -13.03784279891383}, "35463": {"depth": 27.762490585238325, "sound_name": "Explosion 6.wav.wav", "roughness": 4.359417193085345, "hardness": 97.01531960169177, "brightness": 12.791761565008464}, "35462": {"depth": 32.91016677667379, "sound_name": "Explosion 5.wav.wav", "roughness": 2.4985888077757314, "hardness": 94.74552145437156, "brightness": 5.914190430582163}, "349129": {"depth": 48.842596928523335, "sound_name": "Impact_4_full.wav.wav", "roughness": 1.3905621218781676, "hardness": 53.95507803360579, "brightness": 35.84893163859707}, "35460": {"depth": 23.722262919594215, "sound_name": "Explosion 3.wav.wav", "roughness": 21.040085145288796, "hardness": 67.88341535480822, "brightness": 29.85484498362422}, "353928": {"depth": 119.82471984985885, "sound_name": "Explosion.wav", "roughness": 16.456807901724954, "hardness": 109.45914987591914, "brightness": 59.861375068481294}, "362423": {"depth": 32.99461872217109, "sound_name": "Explosion1.wav.wav", "roughness": 331.5962642813854, "hardness": 62.6844984196041, "brightness": 69.03700206345115}, "245372": {"depth": 56.37289427974609, "sound_name": "HQ Explosion.wav", "roughness": 5.53620430375371, "hardness": 76.26104252108644, "brightness": 41.363285754509334}, "200466": {"depth": 25.131943564528072, "sound_name": "Short Explosion.wav", "roughness": 4.314452248025494, "hardness": 54.975088891283576, "brightness": 47.36321288759392}, "200465": {"depth": 34.154075854723956, "sound_name": "Explosion longer.wav", "roughness": 3.9076265401057624, "hardness": 75.03823256574469, "brightness": 47.75323987805963}, "24754": {"depth": 51.84999449296605, "sound_name": "explosion.flac.flac", "roughness": 0.33629100652793004, "hardness": 29.852037828946777, "brightness": 35.12030607906309}, "209772": {"depth": 39.87349754142018, "sound_name": "Metal Boom.aiff", "roughness": 0.8934151645943976, "hardness": 53.844751425043796, "brightness": -31.634393421901343}, "156499": {"depth": 37.795368564873314, "sound_name": "Medium Far Explosion.wav", "roughness": 0.12798887959866137, "hardness": 48.06976112886241, "brightness": 1.0401299938143609}, "156498": {"depth": 28.447126622329527, "sound_name": "Small Far Explosion.wav", "roughness": 0.09315986807201504, "hardness": 72.0642326810007, "brightness": -1.6143553769035286}, "268828": {"depth": 45.98263680670274, "sound_name": "Reverberating Explosion.wav.wav", "roughness": 0.5319225974877613, "hardness": 61.82313911588699, "brightness": -7.165037357561246}, "182429": {"depth": 47.513428320411975, "sound_name": "Explosion.flac", "roughness": 0.7142697669361937, "hardness": 48.408634029885434, "brightness": 28.576339919037025}, "335990": {"depth": 58.59991769135401, "sound_name": "Explosion007.wav.wav", "roughness": 4.41196859004728, "hardness": 82.34982478028405, "brightness": 59.362040566079514}, "337298": {"depth": 58.01991771028947, "sound_name": "Explosion008.wav.wav", "roughness": 9.301135594408375, "hardness": 104.86208282384541, "brightness": 64.99613831330682}, "33677": {"depth": 58.17123277472396, "sound_name": "explosions.aif.aif", "roughness": 0.652385556423492, "hardness": 36.70759093047036, "brightness": 6.251868727208723}, "390182": {"depth": 39.79584637717964, "sound_name": "Explosion.wav.wav", "roughness": 0.34947111372708595, "hardness": 74.40204769190359, "brightness": 19.648023835243173}, "380448": {"depth": 50.15858901714054, "sound_name": "Explosion (Lo-Fi) 1.wav.wav", "roughness": 1.0669099936522992, "hardness": 73.49162153752422, "brightness": 39.53074501570249}, "380447": {"depth": 52.289278137954405, "sound_name": "Explosion (Lo-Fi) 2.wav.wav", "roughness": 1.2342276661960336, "hardness": 50.24042179227445, "brightness": 38.14323165267591}, "380444": {"depth": 60.129591099423216, "sound_name": "Explosion (Ambient) 1.wav.wav", "roughness": 0.20561258282352934, "hardness": 0.5561745813211019, "brightness": -11.904719612771022}, "380443": {"depth": 67.2569830084133, "sound_name": "Explosion (Ambient) 2.wav.wav", "roughness": 0.18742708991770066, "hardness": 22.755121816190695, "brightness": -18.907223037610187}, "186955": {"depth": 13.657299232763883, "sound_name": "explosion_small.wav.wav", "roughness": 33.94109430902486, "hardness": 71.94698898501338, "brightness": 58.782243710433676}, "173125": {"depth": 34.623324619429425, "sound_name": "03870 gunpowder different explosions.wav.wav", "roughness": 0.21921048529857712, "hardness": 100.66913081334724, "brightness": 39.516301989721896}, "186957": {"depth": 10.397488447255729, "sound_name": "explosion6.wav.wav", "roughness": 3.3913837689981974, "hardness": 84.40735364867851, "brightness": 54.10795951594653}, "65988": {"depth": 41.264595870924126, "sound_name": "00796 explosion 9 boom.wav.wav", "roughness": 0.5900427885464076, "hardness": 78.86248141372107, "brightness": 30.251067873219007}, "186958": {"depth": 6.744437476487535, "sound_name": "explosion7.wav.wav", "roughness": 4.0106305049052535, "hardness": 85.60932429217519, "brightness": 60.99900361735986}, "333692": {"depth": 53.82769984770483, "sound_name": "explosion.wav.wav", "roughness": 1.194454354107295, "hardness": 48.54916597452575, "brightness": 7.692784234897282}, "170220": {"depth": 88.86735654050842, "sound_name": "distant explosion_1.wav.wav", "roughness": 0.031233786722121907, "hardness": 56.68236116457683, "brightness": 20.940895252111567}, "40968": {"depth": 45.7392861596944, "sound_name": "20070915.2explosions.wav.wav", "roughness": 1.3207780376834644, "hardness": 62.801492511579, "brightness": 24.54993963479005}, "365149": {"depth": 16.46177163741368, "sound_name": "Explosion .wav.wav", "roughness": 1.201470173872622, "hardness": 57.135322144006295, "brightness": 43.69480326773693}, "336735": {"depth": 77.82010016819243, "sound_name": "double-explosion_bright & dark.wav", "roughness": 0.150510497619113, "hardness": 70.78082943540949, "brightness": 40.80602046823894}, "341930": {"depth": 24.94741368044095, "sound_name": "16-Explosion.wav.wav", "roughness": 1.6440393823209125, "hardness": 70.50664980991132, "brightness": 52.59171690634298}, "51463": {"depth": 27.21921376939754, "sound_name": "big_explosion.wav.wav", "roughness": 3.934028917233062, "hardness": 74.98970076297792, "brightness": 41.707005857072815}, "186965": {"depth": 57.13043858884233, "sound_name": "explosion1.wav.wav", "roughness": 4.54080977135567, "hardness": 67.66973673811708, "brightness": 52.15324306014969}, "186967": {"depth": 26.588982141685484, "sound_name": "explosion5.wav.wav", "roughness": 9.23302051717364, "hardness": 64.87317452275556, "brightness": 47.37001677270193}, "170146": {"depth": 24.83509159826898, "sound_name": "8-bit Explosion.aif.aiff", "roughness": 22.351635769952527, "hardness": 88.12237603504627, "brightness": 44.893409024898986}, "170145": {"depth": 19.205099349927053, "sound_name": "8-bit Explosion1.aif.aiff", "roughness": 151.66298589643546, "hardness": 94.36161154911179, "brightness": 59.238322263441106}, "170144": {"depth": 23.949970852999442, "sound_name": "8-bit Explosion2.aif.aiff", "roughness": 6.425488550613847, "hardness": 88.59136475882133, "brightness": 52.79379840363167}, "200197": {"depth": 340.86504253396424, "sound_name": "myExplosion1.wav.wav", "roughness": 104.22771408452824, "hardness": 12.68953002302942, "brightness": 80.91364818998052}, "336008": {"depth": -13.77629781554954, "sound_name": "Whistle and Explosion Single_Firework.wav", "roughness": 0.732580341667569, "hardness": 87.42933102804182, "brightness": 55.455819855792726}, "336009": {"depth": 12.359420979556093, "sound_name": "Sharp Explosion Weird_Natural_reverb.wav", "roughness": 0.5691397522289543, "hardness": 88.84573169270743, "brightness": 51.50416522005949}, "336007": {"depth": 26.678788481039092, "sound_name": "Multiple Deep Explosions (Noisy rec).wav", "roughness": 0.8996590053061858, "hardness": 60.988662067883524, "brightness": 15.602467463355111}, "347317": {"depth": 30.61068582331907, "sound_name": "FUN-EXPLOSION04.wav.wav", "roughness": 4.552473501303254, "hardness": 16.92130657802909, "brightness": 53.26869315959968}, "347312": {"depth": 28.574303829278804, "sound_name": "FUN-EXPLOSION01.wav.wav", "roughness": 8.293460850418128, "hardness": 74.37785249728404, "brightness": 58.43385807221807}}}
+{
+  "Explosion": {
+    "177556": {
+      "depth": 53.805536222811796,
+      "sound_name": "massive explosion.wav",
+      "roughness": 0.08251843023442772,
+      "hardness": 57.33173046702905,
+      "brightness": 12.367164457727384
+    },
+    "158425": {
+      "depth": 146.6495045994634,
+      "sound_name": "Space to Earth Explosion.wav.wav",
+      "roughness": 2.7989488491897214,
+      "hardness": 60.50455471944724,
+      "brightness": 45.65136345581588
+    },
+    "6721": {
+      "depth": 62.0723599310777,
+      "sound_name": "boom3.wav.wav",
+      "roughness": 1.2776762200089582,
+      "hardness": 42.221332701903066,
+      "brightness": -2.949147038273953
+    },
+    "6720": {
+      "depth": 42.906238951373446,
+      "sound_name": "boom2.wav.wav",
+      "roughness": 2.148506326551505,
+      "hardness": 48.22758497869199,
+      "brightness": -3.721939116919458
+    },
+    "6719": {
+      "depth": 68.20186447217694,
+      "sound_name": "boom1.wav.wav",
+      "roughness": 0.8216467920208106,
+      "hardness": 41.21192901191489,
+      "brightness": -22.7649151020224
+    },
+    "259300": {
+      "depth": 56.65964873114449,
+      "sound_name": "Huge Explosion.flac",
+      "roughness": 0.493272573812045,
+      "hardness": 43.677093484619945,
+      "brightness": 8.592396204519915
+    },
+    "203331": {
+      "depth": 82.37607859793346,
+      "sound_name": "explosion_documentary_Veiler.wav.wav",
+      "roughness": 0.5483025361372598,
+      "hardness": 39.38782277706014,
+      "brightness": -3.229113275249894
+    },
+    "35461": {
+      "depth": 27.754955299398944,
+      "sound_name": "Explosion 4.wav.wav",
+      "roughness": 4.3439650308193505,
+      "hardness": 92.94112223007323,
+      "brightness": 10.5406368654808
+    },
+    "353318": {
+      "depth": 32.3996366520106,
+      "sound_name": "Massive explosion.wav.wav",
+      "roughness": 0.7292337745146917,
+      "hardness": 33.617668186194805,
+      "brightness": 1.368171466436415
+    },
+    "328836": {
+      "depth": 36.14606771192303,
+      "sound_name": "HUGE AND LOUD Explosion.wav",
+      "roughness": 39.249325360150856,
+      "hardness": 81.21695214586543,
+      "brightness": 52.154652366319596
+    },
+    "387229": {
+      "depth": 25.565912891522075,
+      "sound_name": "Explosion (CloseNear) (Mixed).wav",
+      "roughness": 0.2496466490804238,
+      "hardness": 78.44138765526804,
+      "brightness": 50.58036934942052
+    },
+    "189778": {
+      "depth": 29.56935541012846,
+      "sound_name": "Explosive.flac.flac",
+      "roughness": 9.085675452809092,
+      "hardness": 75.09085754724447,
+      "brightness": 52.317208579192126
+    },
+    "114046": {
+      "depth": 44.22357040089799,
+      "sound_name": "kl_ex2.wav.wav",
+      "roughness": 5.930979648733948,
+      "hardness": 82.74137164598415,
+      "brightness": 40.23758268642101
+    },
+    "114047": {
+      "depth": 52.92276974499529,
+      "sound_name": "kl_ex3.wav.wav",
+      "roughness": 3.025058025332825,
+      "hardness": 72.1947764642523,
+      "brightness": 43.070920373424556
+    },
+    "197970": {
+      "depth": 24.85013072730014,
+      "sound_name": "Explosion.wav",
+      "roughness": 3.6866659967819175,
+      "hardness": 8.38969975247528,
+      "brightness": 42.00337775879858
+    },
+    "165910": {
+      "depth": 40.05583469443441,
+      "sound_name": "Explosion 2.wav.wav",
+      "roughness": 3.6223836148046806,
+      "hardness": 60.39448435497252,
+      "brightness": 56.90960666825964
+    },
+    "165911": {
+      "depth": 39.65551025131165,
+      "sound_name": "Explosion 1.wav.wav",
+      "roughness": 1.4771748174552688,
+      "hardness": 61.1908592853938,
+      "brightness": 53.69538234297862
+    },
+    "114048": {
+      "depth": 35.889639821640635,
+      "sound_name": "kl_ex4.wav.wav",
+      "roughness": 3.7378467261005994,
+      "hardness": 80.07538376378488,
+      "brightness": 56.1297670992617
+    },
+    "114049": {
+      "depth": 33.28441525063003,
+      "sound_name": "kl_ex5.wav.wav",
+      "roughness": 6.5316022787700945,
+      "hardness": 76.26683517717993,
+      "brightness": 34.3750055544915
+    },
+    "370267": {
+      "depth": 23.601743037826257,
+      "sound_name": "naturalistic synthetic explosions.flac.flac",
+      "roughness": 6.932927938873985,
+      "hardness": 56.62263435206523,
+      "brightness": 28.56579855000983
+    },
+    "367622": {
+      "depth": 84.8771800889222,
+      "sound_name": "Explosion with Debris.wav.wav",
+      "roughness": 9.932097663169461,
+      "hardness": 79.15881664091103,
+      "brightness": 57.10202565690571
+    },
+    "231765": {
+      "depth": 8.40342925772319,
+      "sound_name": "Tank Explosion.flac",
+      "roughness": 1.7670028161531284,
+      "hardness": 91.00772923174236,
+      "brightness": 34.124324313593135
+    },
+    "181476": {
+      "depth": 50.11715703887084,
+      "sound_name": "Explosion_5.ogg.ogg",
+      "roughness": 0.8628709270425167,
+      "hardness": 63.72056925964171,
+      "brightness": 4.569356558642294
+    },
+    "162265": {
+      "depth": 37.987997794677234,
+      "sound_name": "Explosive.flac",
+      "roughness": 3.6430920921002,
+      "hardness": 48.15231578705789,
+      "brightness": 30.467744898610036
+    },
+    "210613": {
+      "depth": 48.39327210864134,
+      "sound_name": "Explosion001.wav.wav",
+      "roughness": 0.4037324526289904,
+      "hardness": 72.5706402147739,
+      "brightness": 41.573196166560066
+    },
+    "387230": {
+      "depth": 22.192698367516172,
+      "sound_name": "Explosion VAR 2 (CloseNear) (Mixed).wav",
+      "roughness": 0.5258243978566647,
+      "hardness": 61.52464082777351,
+      "brightness": 45.53517841351099
+    },
+    "165909": {
+      "depth": 37.57755684286467,
+      "sound_name": "Explosion 3.wav.wav",
+      "roughness": 2.52748710505381,
+      "hardness": 63.76502075618464,
+      "brightness": 47.673632189670556
+    },
+    "114050": {
+      "depth": 46.207696867643314,
+      "sound_name": "kl_ex6.wav.wav",
+      "roughness": 4.888455328797471,
+      "hardness": 81.28788931066038,
+      "brightness": 54.0199576061849
+    },
+    "56598": {
+      "depth": 36.911624164908034,
+      "sound_name": "fireworks_close_explosion.wav.wav",
+      "roughness": 73.85501607507358,
+      "hardness": 84.29685633648887,
+      "brightness": 67.80786732807255
+    },
+    "366086": {
+      "depth": 47.913319362797395,
+      "sound_name": "Huge Explosion Part 3 - Long Crash.aiff",
+      "roughness": 3.4632131623065687,
+      "hardness": 71.48560524099867,
+      "brightness": 52.821588606770874
+    },
+    "191694": {
+      "depth": 67.50302926041985,
+      "sound_name": "Explosion 4.wav",
+      "roughness": 0.3899865125455075,
+      "hardness": 87.96271066342342,
+      "brightness": 59.48198434194235
+    },
+    "191692": {
+      "depth": 68.10398096454236,
+      "sound_name": "Explosion 2.wav",
+      "roughness": 2.3621674810162583,
+      "hardness": 44.883563202789446,
+      "brightness": 36.13309714515081
+    },
+    "191693": {
+      "depth": 54.6838602531209,
+      "sound_name": "Explosion 3.wav",
+      "roughness": 1.1878658822979222,
+      "hardness": 47.544240534587516,
+      "brightness": 9.954622468502663
+    },
+    "191691": {
+      "depth": 68.5269159432375,
+      "sound_name": "Explosion 1.wav",
+      "roughness": 0.9538707888085762,
+      "hardness": 44.86370237822848,
+      "brightness": 14.258257214246193
+    },
+    "244394": {
+      "depth": 38.401618060711876,
+      "sound_name": "BangExplosion Metallic.wav",
+      "roughness": 0.09888577040673154,
+      "hardness": 52.25952578538045,
+      "brightness": 10.208187813882908
+    },
+    "366091": {
+      "depth": 56.52362427318384,
+      "sound_name": "Huge Explosion Part 1 - Shockwave.aiff",
+      "roughness": 3.787033698807648,
+      "hardness": 63.12574213580001,
+      "brightness": 52.357001368696814
+    },
+    "372086": {
+      "depth": 32.247331823529194,
+      "sound_name": "Distant Explosion.wav.wav",
+      "roughness": 0.23005533199708525,
+      "hardness": 24.811244969751442,
+      "brightness": -14.979205939009619
+    },
+    "369530": {
+      "depth": 31.609625387239593,
+      "sound_name": "Long Decay Explosion (2).wav.wav",
+      "roughness": 18.890641606733517,
+      "hardness": 81.55432313964457,
+      "brightness": 47.51932136691539
+    },
+    "398283": {
+      "depth": 34.47940379346268,
+      "sound_name": "Explosion.wav",
+      "roughness": 2.7834073931693357,
+      "hardness": 66.682325593938,
+      "brightness": 29.29126864513229
+    },
+    "349130": {
+      "depth": 46.354227719479034,
+      "sound_name": "Impact_3_full.wav.wav",
+      "roughness": 2.0285703888926596,
+      "hardness": 65.78966265666304,
+      "brightness": 36.400920031162904
+    },
+    "349131": {
+      "depth": 47.37161106141917,
+      "sound_name": "Impact_2_full.wav.wav",
+      "roughness": 2.3905657537582967,
+      "hardness": 49.04715514735108,
+      "brightness": 40.16501181126725
+    },
+    "349132": {
+      "depth": 49.858301612026864,
+      "sound_name": "Impact_1_full.wav.wav",
+      "roughness": 1.1648095058026553,
+      "hardness": 59.64801149138657,
+      "brightness": 33.92836703084473
+    },
+    "154680": {
+      "depth": 10.8565562292,
+      "sound_name": "fried016ms.wav.wav",
+      "roughness": 0.0,
+      "hardness": 100.95092769533858,
+      "brightness": 27.085189715122418
+    },
+    "382943": {
+      "depth": 45.68069319389382,
+      "sound_name": "Explosion (Ambient) 3.wav.wav",
+      "roughness": 0.08085316830370988,
+      "hardness": 29.000494342168167,
+      "brightness": -14.398497955366935
+    },
+    "366088": {
+      "depth": 56.314195016919555,
+      "sound_name": "Huge Explosion Part 2 - Impact.aiff",
+      "roughness": 0.2127871358060087,
+      "hardness": 50.297320684180704,
+      "brightness": 10.82650520322634
+    },
+    "352143": {
+      "depth": 33.71215203445955,
+      "sound_name": "Clean Explosions.flac",
+      "roughness": 0.10374393555635586,
+      "hardness": 75.188428646195,
+      "brightness": 16.475051149282002
+    },
+    "35459": {
+      "depth": 40.41974681708656,
+      "sound_name": "Explosion 2.wav.wav",
+      "roughness": 2.2764503144553796,
+      "hardness": 54.30205453593544,
+      "brightness": -32.7837147994034
+    },
+    "159402": {
+      "depth": 28.427644533253094,
+      "sound_name": "OverheadExplosion.wav.wav",
+      "roughness": 0.45755645178917287,
+      "hardness": 40.00256733442893,
+      "brightness": -17.049712729887844
+    },
+    "209769": {
+      "depth": 60.11114170752039,
+      "sound_name": "Explosion Distant .aiff",
+      "roughness": 0.12576164943892723,
+      "hardness": 17.17083566128622,
+      "brightness": -18.744744256423655
+    },
+    "369529": {
+      "depth": 33.67728353697071,
+      "sound_name": "Medium Explosion.wav.wav",
+      "roughness": 19.47180726485045,
+      "hardness": 66.8925415516992,
+      "brightness": 48.26159938887504
+    },
+    "156500": {
+      "depth": 47.518574665272965,
+      "sound_name": "Big Far Explosion.wav",
+      "roughness": 0.08541941620064254,
+      "hardness": 68.30071031151556,
+      "brightness": 11.188483950322578
+    },
+    "369524": {
+      "depth": 26.40487515900841,
+      "sound_name": "Long Decay Explosion (1).wav.wav",
+      "roughness": 23.507475357392174,
+      "hardness": 82.90361990337351,
+      "brightness": 52.265348167270275
+    },
+    "35458": {
+      "depth": 28.4015605408497,
+      "sound_name": "Explosion 1.wav.wav",
+      "roughness": 3.3988658543753796,
+      "hardness": 85.49877533185145,
+      "brightness": -34.682159941130024
+    },
+    "154679": {
+      "depth": 47.62526040769548,
+      "sound_name": "f016ms_3_3.wav.wav",
+      "roughness": 0.49812368475277113,
+      "hardness": 92.05874365278123,
+      "brightness": 44.81360965849346
+    },
+    "35464": {
+      "depth": 30.634763151726695,
+      "sound_name": "Explosion 7.wav.wav",
+      "roughness": 3.077134943879617,
+      "hardness": 86.08161786638811,
+      "brightness": -13.03784279891383
+    },
+    "35463": {
+      "depth": 27.762490585238325,
+      "sound_name": "Explosion 6.wav.wav",
+      "roughness": 4.359417193085345,
+      "hardness": 97.01531960169177,
+      "brightness": 12.791761565008464
+    },
+    "35462": {
+      "depth": 32.91016677667379,
+      "sound_name": "Explosion 5.wav.wav",
+      "roughness": 2.4985888077757314,
+      "hardness": 94.74552145437156,
+      "brightness": 5.914190430582163
+    },
+    "349129": {
+      "depth": 48.842596928523335,
+      "sound_name": "Impact_4_full.wav.wav",
+      "roughness": 1.3905621218781676,
+      "hardness": 53.95507803360579,
+      "brightness": 35.84893163859707
+    },
+    "35460": {
+      "depth": 23.722262919594215,
+      "sound_name": "Explosion 3.wav.wav",
+      "roughness": 21.040085145288796,
+      "hardness": 67.88341535480822,
+      "brightness": 29.85484498362422
+    },
+    "353928": {
+      "depth": 119.82471984985885,
+      "sound_name": "Explosion.wav",
+      "roughness": 16.456807901724954,
+      "hardness": 109.45914987591914,
+      "brightness": 59.861375068481294
+    },
+    "362423": {
+      "depth": 32.99461872217109,
+      "sound_name": "Explosion1.wav.wav",
+      "roughness": 331.5962642813854,
+      "hardness": 62.6844984196041,
+      "brightness": 69.03700206345115
+    },
+    "245372": {
+      "depth": 56.37289427974609,
+      "sound_name": "HQ Explosion.wav",
+      "roughness": 5.53620430375371,
+      "hardness": 76.26104252108644,
+      "brightness": 41.363285754509334
+    },
+    "200466": {
+      "depth": 25.131943564528072,
+      "sound_name": "Short Explosion.wav",
+      "roughness": 4.314452248025494,
+      "hardness": 54.975088891283576,
+      "brightness": 47.36321288759392
+    },
+    "200465": {
+      "depth": 34.154075854723956,
+      "sound_name": "Explosion longer.wav",
+      "roughness": 3.9076265401057624,
+      "hardness": 75.03823256574469,
+      "brightness": 47.75323987805963
+    },
+    "24754": {
+      "depth": 51.84999449296605,
+      "sound_name": "explosion.flac.flac",
+      "roughness": 0.33629100652793004,
+      "hardness": 29.852037828946777,
+      "brightness": 35.12030607906309
+    },
+    "209772": {
+      "depth": 39.87349754142018,
+      "sound_name": "Metal Boom.aiff",
+      "roughness": 0.8934151645943976,
+      "hardness": 53.844751425043796,
+      "brightness": -31.634393421901343
+    },
+    "156499": {
+      "depth": 37.795368564873314,
+      "sound_name": "Medium Far Explosion.wav",
+      "roughness": 0.12798887959866137,
+      "hardness": 48.06976112886241,
+      "brightness": 1.0401299938143609
+    },
+    "156498": {
+      "depth": 28.447126622329527,
+      "sound_name": "Small Far Explosion.wav",
+      "roughness": 0.09315986807201504,
+      "hardness": 72.0642326810007,
+      "brightness": -1.6143553769035286
+    },
+    "268828": {
+      "depth": 45.98263680670274,
+      "sound_name": "Reverberating Explosion.wav.wav",
+      "roughness": 0.5319225974877613,
+      "hardness": 61.82313911588699,
+      "brightness": -7.165037357561246
+    },
+    "182429": {
+      "depth": 47.513428320411975,
+      "sound_name": "Explosion.flac",
+      "roughness": 0.7142697669361937,
+      "hardness": 48.408634029885434,
+      "brightness": 28.576339919037025
+    },
+    "335990": {
+      "depth": 58.59991769135401,
+      "sound_name": "Explosion007.wav.wav",
+      "roughness": 4.41196859004728,
+      "hardness": 82.34982478028405,
+      "brightness": 59.362040566079514
+    },
+    "337298": {
+      "depth": 58.01991771028947,
+      "sound_name": "Explosion008.wav.wav",
+      "roughness": 9.301135594408375,
+      "hardness": 104.86208282384541,
+      "brightness": 64.99613831330682
+    },
+    "33677": {
+      "depth": 58.17123277472396,
+      "sound_name": "explosions.aif.aif",
+      "roughness": 0.652385556423492,
+      "hardness": 36.70759093047036,
+      "brightness": 6.251868727208723
+    },
+    "390182": {
+      "depth": 39.79584637717964,
+      "sound_name": "Explosion.wav.wav",
+      "roughness": 0.34947111372708595,
+      "hardness": 74.40204769190359,
+      "brightness": 19.648023835243173
+    },
+    "380448": {
+      "depth": 50.15858901714054,
+      "sound_name": "Explosion (Lo-Fi) 1.wav.wav",
+      "roughness": 1.0669099936522992,
+      "hardness": 73.49162153752422,
+      "brightness": 39.53074501570249
+    },
+    "380447": {
+      "depth": 52.289278137954405,
+      "sound_name": "Explosion (Lo-Fi) 2.wav.wav",
+      "roughness": 1.2342276661960336,
+      "hardness": 50.24042179227445,
+      "brightness": 38.14323165267591
+    },
+    "380444": {
+      "depth": 60.129591099423216,
+      "sound_name": "Explosion (Ambient) 1.wav.wav",
+      "roughness": 0.20561258282352934,
+      "hardness": 0.5561745813211019,
+      "brightness": -11.904719612771022
+    },
+    "380443": {
+      "depth": 67.2569830084133,
+      "sound_name": "Explosion (Ambient) 2.wav.wav",
+      "roughness": 0.18742708991770066,
+      "hardness": 22.755121816190695,
+      "brightness": -18.907223037610187
+    },
+    "186955": {
+      "depth": 13.657299232763883,
+      "sound_name": "explosion_small.wav.wav",
+      "roughness": 33.94109430902486,
+      "hardness": 71.94698898501338,
+      "brightness": 58.782243710433676
+    },
+    "173125": {
+      "depth": 34.623324619429425,
+      "sound_name": "03870 gunpowder different explosions.wav.wav",
+      "roughness": 0.21921048529857712,
+      "hardness": 100.66913081334724,
+      "brightness": 39.516301989721896
+    },
+    "186957": {
+      "depth": 10.397488447255729,
+      "sound_name": "explosion6.wav.wav",
+      "roughness": 3.3913837689981974,
+      "hardness": 84.40735364867851,
+      "brightness": 54.10795951594653
+    },
+    "65988": {
+      "depth": 41.264595870924126,
+      "sound_name": "00796 explosion 9 boom.wav.wav",
+      "roughness": 0.5900427885464076,
+      "hardness": 78.86248141372107,
+      "brightness": 30.251067873219007
+    },
+    "186958": {
+      "depth": 6.744437476487535,
+      "sound_name": "explosion7.wav.wav",
+      "roughness": 4.0106305049052535,
+      "hardness": 85.60932429217519,
+      "brightness": 60.99900361735986
+    },
+    "333692": {
+      "depth": 53.82769984770483,
+      "sound_name": "explosion.wav.wav",
+      "roughness": 1.194454354107295,
+      "hardness": 48.54916597452575,
+      "brightness": 7.692784234897282
+    },
+    "170220": {
+      "depth": 88.86735654050842,
+      "sound_name": "distant explosion_1.wav.wav",
+      "roughness": 0.031233786722121907,
+      "hardness": 56.68236116457683,
+      "brightness": 20.940895252111567
+    },
+    "40968": {
+      "depth": 45.7392861596944,
+      "sound_name": "20070915.2explosions.wav.wav",
+      "roughness": 1.3207780376834644,
+      "hardness": 62.801492511579,
+      "brightness": 24.54993963479005
+    },
+    "365149": {
+      "depth": 16.46177163741368,
+      "sound_name": "Explosion .wav.wav",
+      "roughness": 1.201470173872622,
+      "hardness": 57.135322144006295,
+      "brightness": 43.69480326773693
+    },
+    "336735": {
+      "depth": 77.82010016819243,
+      "sound_name": "double-explosion_bright & dark.wav",
+      "roughness": 0.150510497619113,
+      "hardness": 70.78082943540949,
+      "brightness": 40.80602046823894
+    },
+    "341930": {
+      "depth": 24.94741368044095,
+      "sound_name": "16-Explosion.wav.wav",
+      "roughness": 1.6440393823209125,
+      "hardness": 70.50664980991132,
+      "brightness": 52.59171690634298
+    },
+    "51463": {
+      "depth": 27.21921376939754,
+      "sound_name": "big_explosion.wav.wav",
+      "roughness": 3.934028917233062,
+      "hardness": 74.98970076297792,
+      "brightness": 41.707005857072815
+    },
+    "186965": {
+      "depth": 57.13043858884233,
+      "sound_name": "explosion1.wav.wav",
+      "roughness": 4.54080977135567,
+      "hardness": 67.66973673811708,
+      "brightness": 52.15324306014969
+    },
+    "186967": {
+      "depth": 26.588982141685484,
+      "sound_name": "explosion5.wav.wav",
+      "roughness": 9.23302051717364,
+      "hardness": 64.87317452275556,
+      "brightness": 47.37001677270193
+    },
+    "170146": {
+      "depth": 24.83509159826898,
+      "sound_name": "8-bit Explosion.aif.aiff",
+      "roughness": 22.351635769952527,
+      "hardness": 88.12237603504627,
+      "brightness": 44.893409024898986
+    },
+    "170145": {
+      "depth": 19.205099349927053,
+      "sound_name": "8-bit Explosion1.aif.aiff",
+      "roughness": 151.66298589643546,
+      "hardness": 94.36161154911179,
+      "brightness": 59.238322263441106
+    },
+    "170144": {
+      "depth": 23.949970852999442,
+      "sound_name": "8-bit Explosion2.aif.aiff",
+      "roughness": 6.425488550613847,
+      "hardness": 88.59136475882133,
+      "brightness": 52.79379840363167
+    },
+    "200197": {
+      "depth": 340.86504253396424,
+      "sound_name": "myExplosion1.wav.wav",
+      "roughness": 104.22771408452824,
+      "hardness": 12.68953002302942,
+      "brightness": 80.91364818998052
+    },
+    "336008": {
+      "depth": -13.77629781554954,
+      "sound_name": "Whistle and Explosion Single_Firework.wav",
+      "roughness": 0.732580341667569,
+      "hardness": 87.42933102804182,
+      "brightness": 55.455819855792726
+    },
+    "336009": {
+      "depth": 12.359420979556093,
+      "sound_name": "Sharp Explosion Weird_Natural_reverb.wav",
+      "roughness": 0.5691397522289543,
+      "hardness": 88.84573169270743,
+      "brightness": 51.50416522005949
+    },
+    "336007": {
+      "depth": 26.678788481039092,
+      "sound_name": "Multiple Deep Explosions (Noisy rec).wav",
+      "roughness": 0.8996590053061858,
+      "hardness": 60.988662067883524,
+      "brightness": 15.602467463355111
+    },
+    "347317": {
+      "depth": 30.61068582331907,
+      "sound_name": "FUN-EXPLOSION04.wav.wav",
+      "roughness": 4.552473501303254,
+      "hardness": 16.92130657802909,
+      "brightness": 53.26869315959968
+    },
+    "347312": {
+      "depth": 28.574303829278804,
+      "sound_name": "FUN-EXPLOSION01.wav.wav",
+      "roughness": 8.293460850418128,
+      "hardness": 74.37785249728404,
+      "brightness": 58.43385807221807
+    }
+  }
+}
