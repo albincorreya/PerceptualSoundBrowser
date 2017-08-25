@@ -2,9 +2,9 @@
 
 Experimental prototype of a sound browser where you can browse sound effect collections by specifying perceptual acoustical qualities of sound such as brightness, depth, hardness and roughness.
 
-This project was developed as a part of my thesis for Masters' in Sound and Music Computing at Music Technology Group, Barcelona. You can find a detailed explanation of the project here.
+This project was developed as a part of my thesis for Masters' in [Sound and Music Computing](https://www.upf.edu/en/smc/) at [Music Technology Group, Barcelona](https://www.upf.edu/web/mtg). You can find a detailed explanation of the project here.
 
-This project uses the timbral sound models in the following repo https://github.com/AudioCommons/timbral_models which was developed as a part of AudioCommons initiative.
+This project uses the [timbral sound models](https://github.com/AudioCommons/timbral_models) developed Andy P as a part of [AudioCommons](http://www.audiocommons.org/) initiative.
 
 
 # Setup
@@ -26,4 +26,4 @@ This project uses the timbral sound models in the following repo https://github.
 
 # Acknowledgements
 
-Thanks to Frederic Font and Xavier Favory for their valuable suggestions.
+Thanks to [Frederic Font](http://www.dtic.upf.edu/~ffont/) and [Xavier Favory](https://www.linkedin.com/in/xavier-favory-6a3387ab/?ppe=1) for their valuable suggestions.
