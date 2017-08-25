@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 338.0, 79.0, 841.0, 581.0 ],
+		"rect" : [ 230.0, 104.0, 530.0, 363.0 ],
 		"bgcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -38,6 +38,18 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-1",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 77.0, 856.0, 129.0, 22.0 ],
+					"style" : "",
+					"text" : "print access_token -->"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"bgcolor" : [ 0.075932, 0.179854, 0.309804, 1.0 ],
 					"fontface" : 1,
@@ -84,6 +96,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 24.0, 1039.5, 150.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 12.0, 336.5, 150.0, 20.0 ],
 					"style" : "",
 					"text" : "Outlet0 - ACESS_TOKEN"
 				}
@@ -96,6 +110,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 347.0, 1039.5, 159.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 335.0, 336.5, 159.0, 20.0 ],
 					"style" : "",
 					"text" : "Outlet2 - CLIENT_SECRET"
 				}
@@ -108,6 +124,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 202.625, 1039.5, 128.75, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 190.625, 336.5, 128.75, 20.0 ],
 					"style" : "",
 					"text" : "Outlet1 - CLIENT_ID "
 				}
@@ -169,7 +187,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 60.5, 829.0, 183.0, 22.0 ],
+					"patching_rect" : [ 60.5, 829.0, 229.0, 22.0 ],
 					"style" : "",
 					"text" : "0"
 				}
@@ -530,7 +548,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 1900.0, 136.0, 669.0, 562.0 ],
+						"rect" : [ 577.0, 136.0, 669.0, 562.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -939,7 +957,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 27.0, 81.0, 467.0, 203.0 ],
 					"rendermode" : 0,
-					"url" : "https://www.freesound.org/help/about/"
+					"url" : "https://freesound.org/help/about/"
 				}
 
 			}
@@ -986,7 +1004,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 1566.0, 162.0, 1183.0, 690.0 ],
+						"rect" : [ 63.0, 79.0, 1183.0, 690.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1096,9 +1114,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 200.0, 682.0, 230.0, 22.0 ],
-									"style" : "",
-									"text" : "mpwZjmru8SPBOYgLM1qo5o2n4BJeU3"
+									"patching_rect" : [ 295.0, 613.0, 230.0, 22.0 ],
+									"style" : ""
 								}
 
 							}
@@ -1122,7 +1139,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "bang" ],
-									"patching_rect" : [ 317.0, 266.0, 60.0, 22.0 ],
+									"patching_rect" : [ 317.0, 260.0, 60.0, 22.0 ],
 									"style" : "",
 									"text" : "loadbang"
 								}
@@ -2013,6 +2030,15 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-1", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-24", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-30", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -2221,7 +2247,7 @@
 					"destination" : [ "obj-24", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 305.5, 797.0, 234.0, 797.0 ],
+					"midpoints" : [ 305.5, 797.0, 280.0, 797.0 ],
 					"source" : [ "obj-45", 0 ]
 				}
 
