@@ -10,7 +10,7 @@ This project uses the [timbral sound models](https://github.com/AudioCommons/tim
 # Setup
 
 1. You need to have a installed version of Cycling74 Max 7 (7.3.1 atleast) in order to use the system.
-   You can download the latest version from here https://cycling74.com/downloads
+   You can download the latest version from [here](https://cycling74.com/downloads)
 
 2. Download or clone the repo to your local disk
 
