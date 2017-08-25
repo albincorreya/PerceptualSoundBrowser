@@ -16,7 +16,7 @@ Viva Open Source
 
 ___________________________________________________________________________________________________________________________________________
 An alternate efficiant way doing this task would be using a SQLite database. Since for the moment we are dealing with small number of files
-json file processing was enough.  
+json file processing was enough.
 
 var sqlite = new SQLite;
 var result = new SQLResult;
@@ -49,6 +49,8 @@ outlets = 7;
 
 
 var path = ""; //global variable for storing the json file path
+var multiIter = [];
+var d = [];
 
 
 // You have to inovke this function first when everytime you make some changes in the script or if you want to change sound class.
@@ -62,12 +64,14 @@ function setPath(dir,class_name){
 	var out = dir + "data/" + class_name + ".json";
 	path = out;
 	post("\nSet filepath to -> ",out);
+	d = returnSubDict();
+	multiIter = multiIterSounds();
 }
 
 function parsePath(dir){
 	var fdir = dir.split(":").pop();
 	outlet(4,fdir);
-}	
+}
 
 
 // Set headers for the jit.cellblock object
@@ -88,24 +92,23 @@ function returnSubDict(){
 	return subdict;
 }
 
-
 /* This functions outputs all the sound ids and names inside a specific josn file to the jit.cellblock object
 when an sound class is selected by the user */
 function showAllSounds(){
-	var d = returnSubDict();
+	//var d = returnSubDict();
 	var keys = d.getkeys();
-	var sorted_keys = keys.sort(function(a, b){return 0.5 - Math.random()}); // shuffle the array randomly everytime you call the function 
+	var sorted_keys = keys.sort(function(a, b){return 0.5 - Math.random()}); // shuffle the array randomly everytime you call the function
 	post('\nLENGTH',sorted_keys.length,d.length);
 	y_dim = 1;
 	for(var i=0;i<sorted_keys.length;i++){
 		var str_out = "set 0 " + y_dim + "\t" + sorted_keys[i];
-		outlet(6,sorted_keys.length+2);	
+		outlet(6,sorted_keys.length+2);
 		setHeaders();
 		var sname_out = "set 1 " + y_dim + "\t" + getSoundName(sorted_keys[i]);
 		y_dim++;
 		outlet(5,str_out);
 		outlet(5,sname_out);
-		
+
 	}
 }
 
@@ -115,7 +118,7 @@ function roundtoInt(n){ return Math.round(Number(n)); };
 
 // Function to set the min and max range of max slider object from computing the range of feature arrays
 function setSliderRange(attrVal,thres){
-	var d = returnSubDict();
+	//var d = returnSubDict();
 	var keys = d.getkeys();
 	var attrArray = [];
 	for(var i=0;i<keys.length;i++){
@@ -133,9 +136,9 @@ function setSliderRange(attrVal,thres){
 }
 
 
-// get specific sound feature value for a specific sound id.	
+// get specific sound feature value for a specific sound id.
 function get_SoundAttributes(sound_id,val){
-	var subdict = returnSubDict();
+	var subdict = d;
 	var subkeys = subdict.getkeys();
 	var sound_dict = subdict.get(sound_id);
 	var sound_attr = sound_dict.getkeys();
@@ -145,7 +148,7 @@ function get_SoundAttributes(sound_id,val){
 
 
 function iterSounds(val){
-	var d = returnSubDict();
+	//var d = returnSubDict();
 	var keys  = d.getkeys();
 	var out = [];
  	for(var i=0; i<keys.length; i++){
@@ -163,7 +166,7 @@ function iterSounds(val){
 
 function singleFilterThres(inputSlider,thres,attrVal){
 	post("\n\nSlider",inputSlider);
-	var d = returnSubDict();
+	//var d = returnSubDict();
 	var keys  = d.getkeys();
 	var attr = iterSounds(attrVal);
 	var rank_list = [];
@@ -182,7 +185,7 @@ function singleFilterThres(inputSlider,thres,attrVal){
 
 function singleRankFilter(inputSlider,thres,attrVal){
 	post("\n\nSlider",inputSlider);
-	var d = returnSubDict();
+	//var d = returnSubDict();
 	var keys  = d.getkeys();
 	var attr = iterSounds(attrVal);
 	var rank_list = [];
@@ -193,7 +196,7 @@ function singleRankFilter(inputSlider,thres,attrVal){
 			}
 		rank_list[i] = [keys[i],rank_value,attr[i]];
 	}
-	return rank_list;	
+	return rank_list;
 }
 
 
@@ -235,7 +238,7 @@ function showSingleRank(inputSlider,thres,attr){
 }
 
 function multiIterSounds(){
-	var d = returnSubDict();
+	//var d = returnSubDict();
 	var keys  = d.getkeys();
 	var out = [];
  	for(var i=0; i<keys.length; i++){
@@ -253,7 +256,7 @@ function multiIterSounds(){
 
 function filterMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider){
 	//post("\n INPUT SLIDERS",depthSlider,roughnessSlider,hardnessSlider,brightnesSlider);
-	var jsonArray = multiIterSounds();
+	var jsonArray = multiIter;
 	var ranked_list = [];
 	for(var i=0;i<jsonArray.length;i++){
 		if(jsonArray[i][1]<depthSlider+20 && jsonArray[i][2]<roughnessSlider+20 && jsonArray[i][3]<hardnessSlider+20 && jsonArray[i][4]<brightnessSlider+20){
@@ -292,7 +295,7 @@ function showSortBy(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,
 
 
 function rankMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,threshold){
-	var jsonArray = multiIterSounds();
+	var jsonArray = multiIter;
 	//var ranked_list = filterMultiThreshold(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,20);
 	var ranked_results = [];
 	for(var i=0;i<jsonArray.length;i++){
@@ -309,7 +312,7 @@ function rankMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,t
 
 function filterMultiThreshold(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,thres){
 	//post("\n INPUT SLIDERS",depthSlider,roughnessSlider,hardnessSlider,brightnesSlider);
-	var jsonArray = multiIterSounds();
+	var jsonArray = multiIter;
 	var ranked_list = [];
 	for(var i=0;i<jsonArray.length;i++){
 		if(jsonArray[i][1]<depthSlider+thres && jsonArray[i][2]<roughnessSlider+thres && jsonArray[i][3]<hardnessSlider+thres && jsonArray[i][4]<brightnessSlider+thres){
@@ -324,7 +327,7 @@ function filterMultiThreshold(depthSlider,roughnessSlider,hardnessSlider,brightn
 }
 
 function rankMultiThreshold(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,threshold,filterThres){
-	var jsonArray = multiIterSounds();
+	var jsonArray = multiIter;
 	//var ranked_list = filterMultiThreshold(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,filterThres);
 	var ranked_results = [];
 	for(var i=0;i<jsonArray.length;i++){
@@ -383,7 +386,7 @@ function showRankMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSlid
 		outlet(5,str_out);
 		outlet(5,sname_out);
 	}
-	}	
+	}
 }
 
 // Retrieve the filename of a particular sound from the json file.
