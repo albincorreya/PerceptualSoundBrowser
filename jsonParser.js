@@ -94,7 +94,7 @@ when an sound class is selected by the user */
 function showAllSounds(){
 	var d = returnSubDict();
 	var keys = d.getkeys();
-	var sorted_keys = keys.sort(function(a, b){return 0.5 - Math.random()});
+	var sorted_keys = keys.sort(function(a, b){return 0.5 - Math.random()}); // shuffle the array randomly everytime you call the function 
 	post('\nLENGTH',sorted_keys.length,d.length);
 	y_dim = 1;
 	for(var i=0;i<sorted_keys.length;i++){
@@ -172,18 +172,9 @@ function singleFilterThres(inputSlider,thres,attrVal){
 		//post("\n Single values ->", attr[i])
 		if(attr[i]<(inputSlider+thres) && attr[i]>(inputSlider-thres)){
 			//var rank_value = Math.abs(inputSlider - attr[i]);
-			//post("\nCOMP--",attr[i],"-------",(inputSlider+thres));
-			//post("\nRANK SINGLE --",rank_value);
 			//rank_list[i] = [keys[i],rank_value,attr[i]];
 			rank_list[i] = [keys[i],attr[i]];
 			}
-		// if(rank_value<=8){
-		// 	//post(inputSlider,attr[i],distance[i],keys[i]);
-		// 	//str_out = "set 0 " + y_dim + "\t" + keys[i];
-		// 	y_dim = y_dim+1;
-		// 	//outlet(5, str_out);
-		// 	}
-		//post("\n Distance-",distance[i],"->>",attr[i],"-- slider",inputSlider,"\n");
 	}
 	return rank_list;
 }
@@ -212,8 +203,6 @@ function showSingleFilter(inputSlider,thres,attr){
 	var sorted_array = sorted_list.filter(function(e){ return e === 0 || e }); // to remove undefined elements
 	var y_dim = 1;
 	if(sorted_array.length==0){outlet(5,"clear all");outlet(6,sorted_array.length+2);setHeaders();}else{
-		//post("\n BGAS",sorted_list[0][0]);
-		//post("\n GASD",sorted_list[0][2]);}
 		outlet(6,sorted_array.length+2);
 		for(var i=0;i<sorted_array.length; i++){
 			var str_out = "set 0 " + y_dim + "\t" + sorted_array[i][0];
@@ -239,7 +228,6 @@ function showSingleRank(inputSlider,thres,attr){
 			var str_out = "set 0 " + y_dim + "\t" + sorted_array[i][0];
 			var sname_out = "set 1 " + y_dim + "\t" + getSoundName(sorted_array[i][0]);
 			y_dim = y_dim+1;
-			//post("\nSINGLE RANK",str_out,sorted_array[i][1]);
 			outlet(5, str_out);
 			outlet(5, sname_out);
 		}
@@ -294,7 +282,6 @@ function showSortBy(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,
 	if(sorted_array.length==0){outlet(5,"clear all");outlet(6,sorted_array.length+2);setHeaders();post("\n Sorted length",sorted_array.length);}else{
 	outlet(6,sorted_array.length+2);
 	for(var m=0;m<sorted_array.length;m++){
-		//post("\nM->>",m);
 		str_out = "set 0 " + y_dim + "\t" + sorted_array[m][0];
 		y_dim++;
 		post("\n Sound Ids->>",str_out);
