@@ -6,11 +6,18 @@ This was developed as a part of my final thesis for Masters' in [Sound and Music
 
 For timbral feature extraction, this project uses the [timbral sound models](https://github.com/AudioCommons/timbral_models) developed by [Andy Pearce](https://www.surrey.ac.uk/DMM/People/andy_pearce/) as a part of [AudioCommons](http://www.audiocommons.org/) initiative.
 
+This project uses [freesound max-msp modules](https://github.com/albincorreya/Freesound_Max-MSP_Modules) for accessing freesound API services.
 
-# Setup
+
+
+## Requirements
 
 1. You need to have a installed version of Cycling74 [Max 7](https://cycling74.com/products/max) (7.3.1 atleast) in order to use the system.
    You can download the latest version from [here](https://cycling74.com/downloads)
+
+
+
+## Setup
 
 2. Download or clone the [repo](https://github.com/albincorreya/PerceptualSoundBrowser) to your local disk
 
@@ -21,19 +28,19 @@ For timbral feature extraction, this project uses the [timbral sound models](htt
 4. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and
 
 
-# Acknowledgements
+## Acknowledgements
 
 Thanks to [Frederic Font](http://www.dtic.upf.edu/~ffont/) and [Xavier Favory](https://www.linkedin.com/in/xavier-favory-6a3387ab/?ppe=1) for their valuable suggestions.
 
 
-# Authors
+## Authors
 
 Albin Andrew Correya
 
 albin.a.correya@gmail.com
 
 
-# References
+## References
 
 [1]. Pearce, A , Brookes, T and Mason, R. Timbral attributes for sound effect library searching, A. E. S (2017). https://doi.org/10.5281/zen-odo.167392.2.2.
 
