@@ -12,20 +12,20 @@ This project uses an abstraction of [Freesound_Max-MSP_Modules](https://github.c
 
 ## Requirements
 
-1. You need to have a installed version of Cycling74 [Max 7](https://cycling74.com/products/max) (7.3.1 atleast) in order to use the system.
+* You need to have a installed version of Cycling74 [Max 7](https://cycling74.com/products/max) (7.3.1 atleast) in order to use the system.
    You can download the latest version from [here](https://cycling74.com/downloads)
 
 
 
 ## Setup
 
-2. Download or clone the [repo](https://github.com/albincorreya/PerceptualSoundBrowser) to your local disk
+1. Download or clone the [repo](https://github.com/albincorreya/PerceptualSoundBrowser) to your local disk
 
-3. Update the api_key.json file inside the ./data folder with your freesound api credentials.
+2. Update the api_key.json file inside the ./data folder with your freesound api credentials.
    In case, you don't have any, you can apply for a one at http://freesound.org/apiv2/apply/
    (You need to have a registered freesound.org account in order to apply for api credentials)
 
-4. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and
+3. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and
 
 
 ## Acknowledgements
