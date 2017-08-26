@@ -29,6 +29,7 @@ Thanks to [Frederic Font](http://www.dtic.upf.edu/~ffont/) and [Xavier Favory](h
 # Authors
 
 Albin Andrew Correya
+
 albin.a.correya@gmail.com
 
 
