@@ -2,7 +2,7 @@
 
 Experimental prototype of a sound browser where you can browse ambiguous sound effect collections by specifying perceptual acoustical qualities of sound such as brightness, depth, hardness and roughness.
 
-This project was developed as a part of my final thesis for Masters' in [Sound and Music Computing](https://www.upf.edu/en/smc/) at [Music Technology Group, Barcelona](https://www.upf.edu/web/mtg). You can find a detailed explanation of the project [here]().
+This was developed as a part of my final thesis for Masters' in [Sound and Music Computing](https://www.upf.edu/en/smc/) at [Music Technology Group, Barcelona](https://www.upf.edu/web/mtg). You can find a detailed explanation of the project [here]().
 
 For timbral feature extraction, this project uses the [timbral sound models](https://github.com/AudioCommons/timbral_models) developed by [Andy Pearce](https://www.surrey.ac.uk/DMM/People/andy_pearce/) as a part of [AudioCommons](http://www.audiocommons.org/) initiative.
 
