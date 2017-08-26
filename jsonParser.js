@@ -76,7 +76,7 @@ function parsePath(dir){
 
 // Set headers for the jit.cellblock object
 function setHeaders(){
-	headers = ["ID","Name","License"];
+	headers = ["ID","Name"];
 	for(var i=0;i<headers.length;i++){
 		outlet(5,"set "+ i + " 0" + "\t" + headers[i]);
 	}

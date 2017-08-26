@@ -2582,7 +2582,7 @@
 , 			{
 				"box" : 				{
 					"bgcolor" : [ 0.574298, 0.616214, 0.665657, 1.0 ],
-					"cols" : 3,
+					"cols" : 2,
 					"colwidth" : 233,
 					"fontface" : 0,
 					"fontname" : "Arial",
