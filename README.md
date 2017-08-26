@@ -20,9 +20,13 @@ This project uses the [timbral sound models](https://github.com/AudioCommons/tim
 
 4. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and 
 
+
+
 # Acknowledgements
 
 Thanks to [Frederic Font](http://www.dtic.upf.edu/~ffont/) and [Xavier Favory](https://www.linkedin.com/in/xavier-favory-6a3387ab/?ppe=1) for their valuable suggestions.
+
+
 
 # References
 
