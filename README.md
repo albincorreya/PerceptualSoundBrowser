@@ -21,11 +21,15 @@ For timbral feature extraction, this project uses the [timbral sound models](htt
 4. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and
 
 
-
 # Acknowledgements
 
 Thanks to [Frederic Font](http://www.dtic.upf.edu/~ffont/) and [Xavier Favory](https://www.linkedin.com/in/xavier-favory-6a3387ab/?ppe=1) for their valuable suggestions.
 
+
+# Authors
+
+Albin Andrew Correya
+albin.a.correya@gmail.com
 
 
 # References
