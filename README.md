@@ -1,6 +1,6 @@
 # Perceptual Sound Browser
 
-Experimental prototype of a sound browser where you can browse ambiguous sound effect collections by specifying perceptual acoustical qualities of sound such as brightness, depth, hardness and roughness.
+Experimental prototype of a sound browser where you can browse a specific ambiguous sound effect collection (FS-AMB-SFX-700 dataset) by specifying perceptual acoustical qualities of sound such as brightness, depth, hardness and roughness.
 
 This was developed as a part of my final thesis for Masters' in [Sound and Music Computing](https://www.upf.edu/en/smc/) at [Music Technology Group, Barcelona](https://www.upf.edu/web/mtg). You can find a detailed explanation of the project [here]().
 
