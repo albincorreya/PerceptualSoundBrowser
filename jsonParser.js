@@ -47,17 +47,12 @@ outlets = 7;
 
 
 var path = ""; //global variable for storing the json file path
+// global variables for sound array
 var multiIter = [];
 var d = [];
 
 
 // You have to inovke this function first when everytime you make some changes in the script or if you want to change sound class.
-function setpath(class_name){
-	path = "/Users/Correya/Documents/Github/dataset_loader_freesound/" + class_name + ".json"; // replace with the path where your json files are located
-	post("\n JSON filepath set to ->", path);
-}
-
-
 function setPath(dir,class_name){
 	var out = dir + "data/" + class_name + ".json";
 	path = out;
@@ -66,6 +61,8 @@ function setPath(dir,class_name){
 	multiIter = multiIterSounds();
 }
 
+
+// function to parse current directory from  max 'thispatcher' object output
 function parsePath(dir){
 	var fdir = dir.split(":").pop();
 	outlet(4,fdir);
@@ -80,7 +77,7 @@ function setHeaders(){
 	}
 }
 
-
+//Import the josn file to a dictionary and return the subdictionary
 function returnSubDict(){
 	//Import the json file to a dict object and parse subdictionary for iterating over the sounds
 	var main_dict = new Dict;
