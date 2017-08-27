@@ -23,7 +23,7 @@ For timbral feature extraction,this project uses the [timbral sound models](http
    In case, you don't have any, you can apply for a one at http://freesound.org/apiv2/apply/
    (You need to have a registered freesound.org account in order to apply for api credentials)
 
-3. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and
+3. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and enjoy browsing
 
 
 ## Acknowledgements
