@@ -1,3 +1,16 @@
+/*
+
+fs.preview module
+https://github.com/albincorreya/Freesound_Max-MSP_Modules
+
+Get low-quality audio preview services from freesound API
+
+Albin Andrew Correya
+Music Technology Group, UPF, Barcelona
+2017
+
+*/
+
 
 outlets = 2;
 

@@ -1,13 +1,11 @@
 /*
 
-Perceptual Sound Browser
+Perceptual Sound Browser - jsonparser script
 Master Thesis
 SMC Master, MTG, UPF
 
 
 Json file parser for processing effiecient dynanic search functions needed for the proposed interface.
-
-
 
 
 Thanks to the awesome MaxMsp forums which had always helped me to solve various issues and gave certain insights on solving these issues.
