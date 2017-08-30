@@ -6,7 +6,7 @@ This was developed as a part of my final thesis for Masters' in [Sound and Music
 
 This project uses an abstraction of [Freesound_Max-MSP_Modules](https://github.com/albincorreya/Freesound_Max-MSP_Modules) for accessing freesound API services. (Download the repo add it in your Max 7 search patch for using it with other projects)
 
-For timbral feature extraction,this project uses the [timbral sound models](https://github.com/AudioCommons/timbral_models) developed by [Andy Pearce](https://www.surrey.ac.uk/DMM/People/andy_pearce/) as a part of [AudioCommons](http://www.audiocommons.org/) initiative. And, this has been done offline using an [batch extraction script](https://github.com/albincorreya/smcmasterthesis2017/blob/master/multiclass_timbralfeature_extractor.py)
+For timbral feature extraction,this project uses the [timbral sound models](https://github.com/AudioCommons/timbral_models) developed by [Andy Pearce](https://www.surrey.ac.uk/DMM/People/andy_pearce/) as a part of [AudioCommons](http://www.audiocommons.org/) initiative. And, this has been done offline using an [batch extraction python script](https://github.com/albincorreya/smcmasterthesis2017/blob/master/multiclass_timbralfeature_extractor.py)
 
 ## Requirements
 
