@@ -1,3 +1,14 @@
+/*
+Parse authorisation code from the jweb object's response.
+
+embedded in fs.oauth2module
+
+Albin Andrew Correya
+Music Technology Group, UPF, Barcelona
+2017
+
+*/
+
 outlets = 1;
 var iter = 0;
 
