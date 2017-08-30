@@ -40,6 +40,4 @@ albin.a.correya@gmail.com
 
 ## References
 
-[1]. Pearce, A , Brookes, T and Mason, R. Timbral attributes for sound effect library searching, A. E. S (2017). https://doi.org/10.5281/zen-odo.167392.2.2.
-
-[2]. Pearce, A , Brookes, T and Mason, R. First prototype of timbral characterisation tools for semantically annotating non-musical content (2017), Audiocommons.http://www.audiocommons.org/assets/files/AC-WP5-SURREY-D5.2%20First%20prototype%20of%20timbral%20characterisation%20tools%20for%20semantically%20annotating%20non-musical%20content.pdf
+[1]. Pearce, A , Brookes, T and Mason, R. First prototype of timbral characterisation tools for semantically annotating non-musical content (2017), Audiocommons.http://www.audiocommons.org/assets/files/AC-WP5-SURREY-D5.2%20First%20prototype%20of%20timbral%20characterisation%20tools%20for%20semantically%20annotating%20non-musical%20content.pdf
