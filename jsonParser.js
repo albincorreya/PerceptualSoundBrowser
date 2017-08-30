@@ -134,7 +134,7 @@ function setSliderRange(attrVal,thres){
 // get specific sound feature value for a specific sound id.
 function get_SoundAttributes(sound_id,val){
 	var subdict = d;
-	var subkeys = subdict.getkeys();
+	//var subkeys = subdict.getkeys();
 	var sound_dict = subdict.get(sound_id);
 	var sound_attr = sound_dict.getkeys();
 	var out = sound_dict.get(sound_attr[val]);
