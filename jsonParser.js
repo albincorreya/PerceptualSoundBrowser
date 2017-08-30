@@ -160,7 +160,7 @@ function iterSounds(val){
 
 
 function singleFilterThres(inputSlider,thres,attrVal){
-	post("\n\nSlider",inputSlider);
+	//post("\n\nSlider",inputSlider);
 	//var d = returnSubDict();
 	var keys  = d.getkeys();
 	var attr = iterSounds(attrVal);
@@ -179,7 +179,7 @@ function singleFilterThres(inputSlider,thres,attrVal){
 
 
 function singleRankFilter(inputSlider,thres,attrVal){
-	post("\n\nSlider",inputSlider);
+	//post("\n\nSlider",inputSlider);
 	//var d = returnSubDict();
 	var keys  = d.getkeys();
 	var attr = iterSounds(attrVal);
@@ -270,7 +270,7 @@ function filterMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider
 }
 
 function showSortBy(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr){
-	post("\n TARGET->>",depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr);
+	//post("\n TARGET->>",depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr);
 	setHeaders();
 	var ranked_list = filterMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider);
 	var sorted = ranked_list.sort(function(a, b){var x=a[attr];var y=b[attr];return y - x});
@@ -338,7 +338,7 @@ function rankMultiThreshold(depthSlider,roughnessSlider,hardnessSlider,brightnes
 
 
 function showFilterMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr,thres){
-	post("\n TARGET->>",depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr);
+	//post("\n TARGET->>",depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr);
 	setHeaders();
 	if(attr==0){attr=1;};
 	var ranked_list = filterMultiThreshold(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,thres);
@@ -362,7 +362,7 @@ function showFilterMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSl
 
 
 function showRankMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr,threshold,filterThres){
-	post("\n TARGET->>",depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr);
+	//post("\n TARGET->>",depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,attr);
 	setHeaders();
 	if(attr==0){attr=1;};
 	var ranked_list = rankMultiThreshold(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,threshold,filterThres);
