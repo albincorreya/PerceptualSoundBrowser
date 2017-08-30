@@ -204,7 +204,7 @@ function showSingleFilter(inputSlider,thres,attr){
 		outlet(6,sorted_array.length+2);
 		for(var i=0;i<sorted_array.length; i++){
 			var str_out = "set 0 " + y_dim + "\t" + sorted_array[i][0];
-			post("\nSingle Filter",str_out,'>>>',sorted_array[i]);
+			//post("\nSingle Filter",str_out,'>>>',sorted_array[i]);
 			var sname_out = "set 1 " + y_dim + "\t" + getSoundName(sorted_array[i][0]);
 			y_dim = y_dim+1;
 			outlet(5, str_out);
@@ -282,7 +282,7 @@ function showSortBy(depthSlider,roughnessSlider,hardnessSlider,brightnessSlider,
 	for(var m=0;m<sorted_array.length;m++){
 		str_out = "set 0 " + y_dim + "\t" + sorted_array[m][0];
 		y_dim++;
-		post("\n Sound Ids->>",str_out);
+		//post("\n Sound Ids->>",str_out);
 		outlet(5,str_out);
 	}
 	}
@@ -349,7 +349,7 @@ function showFilterMulti(depthSlider,roughnessSlider,hardnessSlider,brightnessSl
 	if(sorted_array.length==0){outlet(5,"clear all");outlet(6,sorted_array.length+2);setHeaders();post("\n No sounds found !",sorted_array.length);}else{
 	outlet(6,sorted_array.length+2);
 	for(var m=0;m<sorted_array.length;m++){
-		post("\nM->>",m);
+		//post("\nM->>",m);
 		str_out = "set 0 " + y_dim + "\t" + sorted_array[m][0];
 		var sname_out = "set 1 " + y_dim + "\t" + getSoundName(sorted_array[m][0]);
 		y_dim++;
