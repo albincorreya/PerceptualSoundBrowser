@@ -8,12 +8,14 @@ This project uses an abstraction of [Freesound_Max-MSP_Modules](https://github.c
 
 For timbral feature extraction,this project uses the [timbral sound models](https://github.com/AudioCommons/timbral_models) developed by [Andy Pearce](https://www.surrey.ac.uk/DMM/People/andy_pearce/) as a part of [AudioCommons](http://www.audiocommons.org/) initiative. And, this has been done offline using an [batch extraction python script](https://github.com/albincorreya/smcmasterthesis2017/blob/master/multiclass_timbralfeature_extractor.py)
 
+![alt text](https://user-images.githubusercontent.com/14850001/29901219-07367002-8df7-11e7-9249-667ba78b495e.png)
+
 ## Requirements
 
 * You need to have a installed version of Cycling74 [Max 7](https://cycling74.com/products/max) (7.3.1 atleast) in order to use the system.
    You can download the latest version from [here](https://cycling74.com/downloads)
 
-
+PS : Tested only with Mac OSX platform (Yosemite 10.10.5 and above). It should be working as normal in windows platform as well
 
 ## Setup
 
