@@ -52,7 +52,8 @@ var multiIter = [];
 var d = [];
 
 
-// You have to inovke this function first when everytime you make some changes in the script or if you want to change sound class.
+// Function responds to Sound class UI button in the interface.
+//Loads the json file and parse the sounds into an array according to users selection
 function setPath(dir,class_name){
 	var out = dir + "data/" + class_name + ".json";
 	path = out;
