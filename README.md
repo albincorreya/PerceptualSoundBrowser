@@ -30,7 +30,9 @@ For timbral feature extraction,this project uses the [timbral sound models](http
 
 ## Builds
 
-For [Mac OSX](https://github.com/albincorreya/PerceptualSoundBrowser/releases)
+For [Mac OSX x64bit](https://github.com/albincorreya/PerceptualSoundBrowser/releases)
+
+You might have to install [Max runtime](https://cycling74.com/downloads/older)
 
 PS : Tested only with Mac OSX platform (Yosemite 10.10.5), should be working with other versions as well. For windows, you have to build the binary from source using Max.
 
