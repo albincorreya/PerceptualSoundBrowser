@@ -10,12 +10,12 @@ This project uses an abstraction of [Freesound_Max-MSP_Modules](https://github.c
 
 For timbral feature extraction,this project uses the [timbral sound models](https://github.com/AudioCommons/timbral_models) developed by [Andy Pearce](https://www.surrey.ac.uk/DMM/People/andy_pearce/) as a part of [AudioCommons](http://www.audiocommons.org/) initiative. And, this has been done offline using an [batch extraction python script](https://github.com/albincorreya/smcmasterthesis2017/blob/master/multiclass_timbralfeature_extractor.py)
 
+
 ## Requirements
 
 * You need to have a installed version of Cycling74 [Max 7](https://cycling74.com/products/max) (7.3.1 atleast) in order to use the system.
    You can download the latest version from [here](https://cycling74.com/downloads)
 
-PS : Tested only with Mac OSX platform (Yosemite 10.10.5 and above). For windows, you have to build the binary from source using Max.
 
 ## Setup
 
@@ -25,7 +25,14 @@ PS : Tested only with Mac OSX platform (Yosemite 10.10.5 and above). For windows
    In case, you don't have any, you can apply for a one at http://freesound.org/apiv2/apply/
    (You need to have a registered freesound.org account in order to apply for api credentials)
 
-3. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and enjoy browsing
+3. Open the "PerceptualSoundBrowser.maxpat" file in the home folder and enjoy browsing. In case of doubts, have a look at the following [video](https://vimeo.com/231350962) for understanding the workflow.
+
+
+## Builds
+
+For [Mac OSX](https://github.com/albincorreya/PerceptualSoundBrowser/releases)
+
+PS : Tested only with Mac OSX platform (Yosemite 10.10.5), should be working with other versions as well. For windows, you have to build the binary from source using Max.
 
 
 ## Acknowledgements
