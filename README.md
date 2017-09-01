@@ -15,7 +15,7 @@ For timbral feature extraction,this project uses the [timbral sound models](http
 * You need to have a installed version of Cycling74 [Max 7](https://cycling74.com/products/max) (7.3.1 atleast) in order to use the system.
    You can download the latest version from [here](https://cycling74.com/downloads)
 
-PS : Tested only with Mac OSX platform (Yosemite 10.10.5 and above). It should be working as normal in windows platform as well (never tested though).
+PS : Tested only with Mac OSX platform (Yosemite 10.10.5 and above). For windows, you have to build the binary from source using Max.
 
 ## Setup
 
