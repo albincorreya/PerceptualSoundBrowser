@@ -2,7 +2,11 @@
 
 ![alt text](https://user-images.githubusercontent.com/14850001/29901219-07367002-8df7-11e7-9249-667ba78b495e.png)
 
-Experimental prototype of a sound browser where you can browse a specific ambiguous sound effect collection (FS-AMB-SFX-700 dataset) by specifying perceptual acoustical qualities of sound such as brightness, depth, hardness and roughness.
+Percetual Sound Browser is a demo prototype of a sound browser which enables you browsing sounds by their high-level acoustic/perceptual qualities such as brightness, roughness, hardness and depth. All these features are computed from the original audio content itself, locally. This was developed as a probe system in further investigating the scope of integrating high-level semantic features into audio production environments. In-depth qualitative expert-user studies were also conducted with industry professional for further undestanding the needs and underlying problems in workflow.
+
+The entire project was developed in Max-MSP environment. This project uses Freesound Max-MSP modules for accessing Freesound API services.
+
+For the moment, this patch only uses a small customised dataset of 700 sounds (7 classes) from Freesound. But, you can integrate any freesound collections by using the attached feature extraction python scripts in the instructions.
 
 This was developed as a part of my final thesis for Masters' in [Sound and Music Computing](https://www.upf.edu/en/smc/) at [Music Technology Group, Barcelona](https://www.upf.edu/web/mtg). You can find a detailed explanation of the project [here]().
 
